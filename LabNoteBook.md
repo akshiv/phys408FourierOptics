@@ -37,19 +37,15 @@ The distances from the back of several objects to the center of the lenses/apert
 |Collimating Lens Offset($\Delta$)|3.05|
 |Imaging Lens Offset($\Delta$)|3.5|
 
-Doing all these calculations gives the true locations of all 
+Doing all these calculations gives the true locations of all the components in this optical setup
 | Object | Absolute Distance for calculations (cm)|
 |--|--|
-|Spatial Filter|44.8|
-|Spatial Filter Offset ($\Delta$)|11.5|
+|Spatial Filter|$44.8 \pm 0.5$|
 |Transform Lens|$168.3 \pm 0.5$|
-|Transform Lens back offset ($\Delta$)|1.3|
 |Image Plane|$509.9 \pm 0.5$|
 |Mesh|$111.7 \pm 0.1$|
-|Mesh Offset ($\Delta$)|3.2|
 |Collimating Lens|$58.85 \pm 0.1$|
-|Collimating Lens Offset($\Delta$)|3.05|
-|Object Plane from knife edge|107.1 |
+|Object Plane from knife edge| 107.1 |
 
 
 
@@ -57,5 +53,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMDQ0OTUwLDE3ODEyMjU2NjRdfQ==
+eyJoaXN0b3J5IjpbLTEwMTk5NTg1NzYsMTc4MTIyNTY2NF19
 -->
