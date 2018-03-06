@@ -13,7 +13,7 @@ Image plane
 Absolute means from the start of measurement rail, offsets are already included in reported distances. Raw measurements are taken from the back of the stage and the offsets correct to the middle of the optical apparatus. 
 
 For ease of reconstruction:
-| Object | Set-up Distance at back of rail (cm)|
+| Object | Set-up Distance at back of rail slider (cm)|
 |--|--|
 |Spatial Filter|33.3|
 |Transform Lens|167|
@@ -47,5 +47,5 @@ Doing all these calculations gives the true locations of all the components in t
 imaging lens after fourier transform plane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYxMTc1MzAsMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbMTg1MjQwNzM5MSwxNzgxMjI1NjY0XX0=
 -->
