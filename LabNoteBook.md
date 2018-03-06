@@ -17,8 +17,10 @@ Absolute means from the start of measurement rail, offsets are already included 
 |--|--|
 |Spatial Filter||
 |Transform Lens|168.3 pm 0.5|
-|Image Plane||
+|Image Plane|509.9 pm 0.5|
+|Mesh||
 |Lens back offset|1.3|
+|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE4NDQ3MzhdfQ==
+eyJoaXN0b3J5IjpbLTEyMjYwNjYxOTBdfQ==
 -->
