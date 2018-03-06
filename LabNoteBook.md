@@ -1,6 +1,6 @@
 # Lab Notebook 
 ## Day 1 2018 03 06
-### Magnification and shit:
+### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
 
 
 
@@ -53,5 +53,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk5NTg1NzYsMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbLTQ1OTcwNDc5NSwxNzgxMjI1NjY0XX0=
 -->
