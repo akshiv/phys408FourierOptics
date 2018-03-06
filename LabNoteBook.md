@@ -15,8 +15,7 @@ Absolute means from the start of measurement rail, offsets are already included 
 For ease of reconstruction:
 | Object | Set-up Distance at back of rail (cm)|
 |--|--|
-|Spatial Filter|44.8|
-|Spatial Filter Offset ($\Delta$)|11.5|
+|Spatial Filter|33.3|
 |Transform Lens|$168.3 \pm 0.5$|
 |Transform Lens back offset ($\Delta$)|1.3|
 |Image Plane|$509.9 \pm 0.5$|
@@ -35,7 +34,7 @@ The distances from the back of several objects to the center of the lenses/apert
 |Collimating Lens Offset($\Delta$)|3.05|
 |Imaging Lens Offset($\Delta$)|3.5|
 
-Doing all these calculations gives the true locations of all the components in this optical setup
+Doing all these calculations gives the true locations of all the components in this optical setup:
 | Object | Absolute Distance for calculations (cm)|
 |--|--|
 |Spatial Filter|$44.8 \pm 0.5$|
@@ -51,5 +50,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzM1MTYyNSwxNzgxMjI1NjY0XX0=
+eyJoaXN0b3J5IjpbLTM0MzA3NTQyOSwxNzgxMjI1NjY0XX0=
 -->
