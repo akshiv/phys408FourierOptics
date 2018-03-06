@@ -20,12 +20,12 @@ Absolute means from the start of measurement rail, offsets are already included 
 |Transform Lens|$168.3 \pm 0.5$|
 |Transform Lens back offset ($\Delta$)|1.3|
 |Image Plane|$509.9 \pm 0.5$|
-|Mesh|111.7 pm 0.1|
+|Mesh|$111.7 \pm 0.1$|
 |Mesh Offset ($\Delta$)|3.2|
 |Collimating Lens|58.85 pm 0.1|
-|Collimating Lens Offset|
-|Object Plane from knife edge|107.1 ($\Delta$)|3.05|
+|Collimating Lens Offset($\Delta$)|3.05|
+|Object Plane from knife edge|107.1 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTIyNTY2NCwxMzM4OTUxOTA2XX0=
+eyJoaXN0b3J5IjpbLTEyMTM4NTMwODgsMTc4MTIyNTY2NF19
 -->
