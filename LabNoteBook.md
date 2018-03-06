@@ -9,10 +9,10 @@ Mesh that we used has 40 lines/cm
 Moving the collimator lens does not effect magnification or focus. It does seem to vary the intensity on the outer edges of the circle. 
 
 We placed the spatial filter at the following settings:
-
-147.5
-1.3-167+358.2+4.2
+Image plane
+147.5+358.2+4.2
+1.3-167
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUyNDkyMTNdfQ==
+eyJoaXN0b3J5IjpbNjIzMDg3NDE0XX0=
 -->
