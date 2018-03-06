@@ -2,8 +2,6 @@
 ## Day 1 2018 03 06
 ### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
 
-
-
 Mesh that we used has 40 lines/cm
 
 Moving the collimator lens does not effect magnification or focus. It does seem to vary the intensity on the outer edges of the circle. 
@@ -53,5 +51,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTcwNDc5NSwxNzgxMjI1NjY0XX0=
+eyJoaXN0b3J5IjpbMTIxNzM1MTYyNSwxNzgxMjI1NjY0XX0=
 -->
