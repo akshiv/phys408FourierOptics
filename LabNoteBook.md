@@ -24,7 +24,7 @@ Absolute means from the start of measurement rail, offsets are already included 
 |Mesh Offset|3.2|
 |Collimating Lens|58.85 pm 0.1|
 |Collimating Lens Offset|3.05|
-|||
+|Object Plane from knife edge|1|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NTIyNzMyLDE3OTE2MjkyMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ3NTk1NDY2LDE3OTE2MjkyMTZdfQ==
 -->
