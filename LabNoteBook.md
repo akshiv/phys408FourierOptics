@@ -21,8 +21,8 @@ Absolute means from the start of measurement rail, offsets are already included 
 |Transform Lens back offset|1.3|
 |Image Plane|509.9 pm 0.5|
 |Mesh||
-|Collomating Lens|55.8|
-|||
+|Collomating Lens|55.8+3.05|
+|Collimating Lens Offset|3.05|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDczNzA5OV19
+eyJoaXN0b3J5IjpbLTIwMTQyODU1MzhdfQ==
 -->
