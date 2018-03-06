@@ -12,12 +12,13 @@ We placed the spatial filter at the following settings:
 Image plane
 147.5+358.2+4.2
 1.3-167
+Absolute means from the start of measurement rail, offsets are already included in reported distances.
 | Object | Absolute Distance(cm)|
 |--|--|
 |Spatial Filter||
-|Transform Lens|165.7|
+|Transform Lens|168.3 pm 0.5|
 |Image Plane||
 |Lens back offset|1.3|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDQzODQ2MF19
+eyJoaXN0b3J5IjpbLTE1MDE4NDQ3MzhdfQ==
 -->
