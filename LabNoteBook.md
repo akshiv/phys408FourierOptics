@@ -28,7 +28,7 @@ For ease of reconstruction:
 |Collimating Lens Offset($\Delta$)|3.05|
 |Object Plane from knife edge|107.1 |
 
-The distances from the back of several objects to the center of the lenses/
+The distances from the back of several objects to the center of the lenses/apertures is reco
 | Object | Offset Distances (cm)|
 |--|--|
 |Spatial Filter Offset ($\Delta$)|11.5|
@@ -56,5 +56,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgyODc0MjMsMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbLTE3OTQyODIxODMsMTc4MTIyNTY2NF19
 -->
