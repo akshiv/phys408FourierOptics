@@ -11,8 +11,8 @@ Moving the collimator lens does not effect magnification or focus. It does seem 
 We placed the spatial filter at the following settings:
 
 147.5
-
+167-358.2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYwMDQ1OF19
+eyJoaXN0b3J5IjpbLTgwMDIwMjM0MV19
 -->
