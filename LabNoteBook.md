@@ -28,19 +28,13 @@ For ease of reconstruction:
 |Collimating Lens Offset($\Delta$)|3.05|
 |Object Plane from knife edge|107.1 |
 
-
+The distances from the back of several objects 
 | Object | Offset Distances (cm)|
 |--|--|
-|Spatial Filter|44.8|
 |Spatial Filter Offset ($\Delta$)|11.5|
-|Transform Lens|$168.3 \pm 0.5$|
 |Transform Lens back offset ($\Delta$)|1.3|
-|Image Plane|$509.9 \pm 0.5$|
-|Mesh|$111.7 \pm 0.1$|
 |Mesh Offset ($\Delta$)|3.2|
-|Collimating Lens|$58.85 \pm 0.1$|
 |Collimating Lens Offset($\Delta$)|3.05|
-|Object Plane from knife edge|107.1 |
 
 
 | Object | Absolute Distance for calculations (cm)|
@@ -62,5 +56,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMTEwMzg1LDE3ODEyMjU2NjRdfQ==
+eyJoaXN0b3J5IjpbMTgxMDcwODcwNywxNzgxMjI1NjY0XX0=
 -->
