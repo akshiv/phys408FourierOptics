@@ -16,16 +16,16 @@ Absolute means from the start of measurement rail, offsets are already included 
 | Object | Absolute Distance(cm)|
 |--|--|
 |Spatial Filter|44.8|
-|Spatial Filter Offset|11.5|
-|Transform Lens|168.3 pm 0.5|
-|Transform Lens back offset|1.3|
-|Image Plane|509.9 pm 0.5|
+|Spatial Filter Offset ($\Delta$)|11.5|
+|Transform Lens|$168.3 \pm 0.5$|
+|Transform Lens back offset ($\Delta$)|1.3|
+|Image Plane|$509.9 \pm 0.5$|
 |Mesh|111.7 pm 0.1|
-|Mesh Offset|3.2|
+|Mesh Offset ($\Delta$)|3.2|
 |Collimating Lens|58.85 pm 0.1|
-|Collimating Lens Offset|3.05|
-|Object Plane from knife edge|107.1|
+|Collimating Lens Offset|
+|Object Plane from knife edge|107.1 ($\Delta$)|3.05|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzY5MTY1MCwxNzkxNjI5MjE2XX0=
+eyJoaXN0b3J5IjpbMTMzODk1MTkwNiwxMzIzNjkxNjUwXX0=
 -->
