@@ -15,12 +15,12 @@ Image plane
 Absolute means from the start of measurement rail, offsets are already included in reported distances.
 | Object | Absolute Distance(cm)|
 |--|--|
-|Spatial Filter||
+|Spatial Filter|33.3|
+|Spatial Filter Offset||
 |Transform Lens|168.3 pm 0.5|
 |Image Plane|509.9 pm 0.5|
 |Mesh||
-|Lens back offset|1.3|
 |||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYwNjYxOTBdfQ==
+eyJoaXN0b3J5IjpbLTkwMjg5MjMzMl19
 -->
