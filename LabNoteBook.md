@@ -26,6 +26,21 @@ Absolute means from the start of measurement rail, offsets are already included 
 |Collimating Lens Offset($\Delta$)|3.05|
 |Object Plane from knife edge|107.1 |
 
+
+
+For ease of reconstruction:
+| Object | Set-up Distance at back of rail (cm)|
+|--|--|
+|Spatial Filter|44.8|
+|Spatial Filter Offset ($\Delta$)|11.5|
+|Transform Lens|$168.3 \pm 0.5$|
+|Transform Lens back offset ($\Delta$)|1.3|
+|Image Plane|$509.9 \pm 0.5$|
+|Mesh|$111.7 \pm 0.1$|
+|Mesh Offset ($\Delta$)|3.2|
+|Collimating Lens|$58.85 \pm 0.1$|
+|Collimating Lens Offset($\Delta$)|3.05|
+|Object Plane from knife edge|107.1 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMDA3MjQsMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbMjEyNjQ5MTY0MSwxNzgxMjI1NjY0XX0=
 -->
