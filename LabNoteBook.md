@@ -29,8 +29,8 @@ The distances from the back of several objects to the center of the lenses/apert
 |Spatial Filter Offset ($\Delta$)|11.5|
 |Transform Lens back offset ($\Delta$)|1.3|
 |Mesh Offset ($\Delta$)|3.2|
-|Collimating Lens Offset($\Delta$)|3.05|
-|Imaging Lens Offset($\Delta$)|3.5|
+|Collimating Lens Offset ($\Delta$)|3.05|
+|Imaging Lens Offset ($\Delta$)|3.5|
 
 Doing all these calculations gives the true locations of all the components in this optical setup:
 | Object | Absolute Distance for calculations (cm)|
@@ -47,5 +47,5 @@ Doing all these calculations gives the true locations of all the components in t
 imaging lens after fourier transform plane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjQwNzM5MSwxNzgxMjI1NjY0XX0=
+eyJoaXN0b3J5IjpbMTM3MDg5NDI5NSwxNzgxMjI1NjY0XX0=
 -->
