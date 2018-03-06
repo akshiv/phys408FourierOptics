@@ -19,7 +19,9 @@ For ease of reconstruction:
 |Transform Lens|167|
 |Mesh|108.5|
 |Collimating Lens|55.8|
+|Imaging Lens|265.5|
 |Object Plane from knife edge|107.1|
+
 
 The distances from the back of several objects to the center of the lenses/apertures is recorded for relative measurements. This was  the set-up distances can be related to the locations of action and used in the calculations later on. 
 | Object | Offset Distances (cm)|
@@ -42,9 +44,8 @@ Doing all these calculations gives the true locations of all the components in t
 
 
 
-imaging lense after fourier transform plane
-265.5 cm from back
-offset 3.5cm
+imaging lens after fourier transform plane
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NzI3MDQ3LDE3ODEyMjU2NjRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTYxMTc1MzAsMTc4MTIyNTY2NF19
 -->
