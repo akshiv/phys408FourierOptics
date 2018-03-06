@@ -13,7 +13,7 @@ Image plane
 147.5+358.2+4.2
 1.3-167
 Absolute means from the start of measurement rail, offsets are already included in reported distances. Raw measurements are taken from the back of the stage and the offsets correct to the middle of the optical apparatus. 
-| Object | Absolute Distance for calcula (cm)|
+| Object | Absolute Distance for calculations (cm)|
 |--|--|
 |Spatial Filter|44.8|
 |Spatial Filter Offset ($\Delta$)|11.5|
@@ -42,5 +42,5 @@ For ease of reconstruction:
 |Collimating Lens Offset($\Delta$)|3.05|
 |Object Plane from knife edge|107.1 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEzODcyMDksMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbMTYyMTU3NDA2LDE3ODEyMjU2NjRdfQ==
 -->
