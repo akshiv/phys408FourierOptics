@@ -27,5 +27,5 @@ Absolute means from the start of measurement rail, offsets are already included 
 |Object Plane from knife edge|107.1 ($\Delta$)|3.05|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODk1MTkwNiwxMzIzNjkxNjUwXX0=
+eyJoaXN0b3J5IjpbMTc4MTIyNTY2NCwxMzM4OTUxOTA2XX0=
 -->
