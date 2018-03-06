@@ -15,7 +15,7 @@ Image plane
 Absolute means from the start of measurement rail, offsets are already included in reported distances. Raw measurements are taken from the back of the stage and the offsets correct to the middle of the optical apparatus. 
 
 For ease of reconstruction:
-'| Object | Set-up Distance at back of rail (cm)|
+| Object | Set-up Distance at back of rail (cm)|
 |--|--|
 |Spatial Filter|44.8|
 |Spatial Filter Offset ($\Delta$)|11.5|
@@ -27,6 +27,7 @@ For ease of reconstruction:
 |Collimating Lens|$58.85 \pm 0.1$|
 |Collimating Lens Offset($\Delta$)|3.05|
 |Object Plane from knife edge|107.1 |
+
 
 | Object | Offset Distances (cm)|
 |--|--|
@@ -54,6 +55,12 @@ For ease of reconstruction:
 |Collimating Lens|$58.85 \pm 0.1$|
 |Collimating Lens Offset($\Delta$)|3.05|
 |Object Plane from knife edge|107.1 |
+
+
+
+imaging lense after fourier transform plane
+265.5 cm from back
+offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDIzNjk5OSwxNzgxMjI1NjY0XX0=
+eyJoaXN0b3J5IjpbNDMyMTEwMzg1LDE3ODEyMjU2NjRdfQ==
 -->
