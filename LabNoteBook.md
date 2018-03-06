@@ -12,7 +12,7 @@ We placed the spatial filter at the following settings:
 Image plane
 147.5+358.2+4.2
 1.3-167
-Absolute means from the start of measurement rail, offsets are already included in reported distances.
+Absolute means from the start of measurement rail, offsets are already included in reported distances. Raw measurements are taken from the back of the stage and the offsets correct to the middle of the optical apparatus. 
 | Object | Absolute Distance(cm)|
 |--|--|
 |Spatial Filter|44.8|
@@ -20,10 +20,10 @@ Absolute means from the start of measurement rail, offsets are already included 
 |Transform Lens|168.3 pm 0.5|
 |Transform Lens back offset|1.3|
 |Image Plane|509.9 pm 0.5|
-|Mesh|108.5|
-||3.2|
+|Mesh|111.7 pm 0.1|
+|Mesh Offset|3.2|
 |Collomating Lens|58.85 pm 0.1|
 |Collimating Lens Offset|3.05|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDMzODYzMF19
+eyJoaXN0b3J5IjpbLTE3ODI2MTg4NDJdfQ==
 -->
