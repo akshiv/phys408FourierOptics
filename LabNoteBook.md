@@ -12,7 +12,9 @@ We placed the spatial filter at the following settings:
 Image plane
 147.5+358.2+4.2
 1.3-167
-
+| Object | Absolute Distance|
+|--|--|
+|Spatial Filter||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzMDg3NDE0XX0=
+eyJoaXN0b3J5IjpbNzExODM5ODE5XX0=
 -->
