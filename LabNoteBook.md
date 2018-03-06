@@ -22,8 +22,8 @@ Absolute means from the start of measurement rail, offsets are already included 
 |Image Plane|509.9 pm 0.5|
 |Mesh|111.7 pm 0.1|
 |Mesh Offset|3.2|
-|Collomating Lens|58.85 pm 0.1|
+|Collimating Lens|58.85 pm 0.1|
 |Collimating Lens Offset|3.05|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI2MTg4NDJdfQ==
+eyJoaXN0b3J5IjpbMTc5MTYyOTIxNl19
 -->
