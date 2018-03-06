@@ -6,7 +6,12 @@
 
 Mesh that we used has 40 lines/cm
 
-Moving the collimator lens does not effect maginifaction or focus. It does seem to vary the intensity on the outer edges of the circle. 
+Moving the collimator lens does not effect magnification or focus. It does seem to vary the intensity on the outer edges of the circle. 
+
+We placed the spatial filter at the following settings:
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjc5MjExN119
+eyJoaXN0b3J5IjpbMTU5MDgwOTQxXX0=
 -->
