@@ -12,9 +12,12 @@ We placed the spatial filter at the following settings:
 Image plane
 147.5+358.2+4.2
 1.3-167
-| Object | Absolute Distance|
+| Object | Absolute Distance(cm)|
 |--|--|
 |Spatial Filter||
+|Transform Lens|165.7|
+|Image Plane||
+|Lens back offset|1.3|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExODM5ODE5XX0=
+eyJoaXN0b3J5IjpbLTQ4MDQzODQ2MF19
 -->
