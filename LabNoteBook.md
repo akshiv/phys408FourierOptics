@@ -35,7 +35,7 @@ The distances from the back of several objects to the center of the lenses/apert
 |Transform Lens back offset ($\Delta$)|1.3|
 |Mesh Offset ($\Delta$)|3.2|
 |Collimating Lens Offset($\Delta$)|3.05|
-
+|Imaging Lens Offset($\Delta$)|3.5|
 
 | Object | Absolute Distance for calculations (cm)|
 |--|--|
@@ -56,5 +56,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYyOTg4MzAsMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbLTU5NDI5NjYwNCwxNzgxMjI1NjY0XX0=
 -->
