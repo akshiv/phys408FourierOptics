@@ -37,6 +37,7 @@ The distances from the back of several objects to the center of the lenses/apert
 |Collimating Lens Offset($\Delta$)|3.05|
 |Imaging Lens Offset($\Delta$)|3.5|
 
+Doing all these calculations gives the true locations of all 
 | Object | Absolute Distance for calculations (cm)|
 |--|--|
 |Spatial Filter|44.8|
@@ -56,5 +57,5 @@ imaging lense after fourier transform plane
 265.5 cm from back
 offset 3.5cm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDI5NjYwNCwxNzgxMjI1NjY0XX0=
+eyJoaXN0b3J5IjpbNjUxMDQ0OTUwLDE3ODEyMjU2NjRdfQ==
 -->
