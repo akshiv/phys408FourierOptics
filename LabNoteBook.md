@@ -4,8 +4,7 @@
 
 Mesh that we used has 40 lines/cm
 
-![Optical Set-up for Wire Mesh Experiment]
-(https://github.com/akshivbansal/phys408FourierOptics/blob/master/20180306-figure1opticalset-up-wiremesh-editted.jpg)
+![Optical Set-up for Wire Mesh Experiment](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/20180306-figure1opticalset-up-wiremesh-editted.jpg)
 
 
 
@@ -53,5 +52,5 @@ Doing all these calculations gives the true locations of all the components in t
 imaging lens after fourier transform plane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NzkxODc3LDE3ODEyMjU2NjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjY2NzY1ODksMTc4MTIyNTY2NF19
 -->
