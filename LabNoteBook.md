@@ -4,7 +4,8 @@
 
 Mesh that we used has 40 lines/cm
 
-![enter image description here](phys408FourierOptics/20180306-figure1opticalset-up-wiremesh-editted.jpg)
+![Op]
+(phys408FourierOptics/20180306-figure1opticalset-up-wiremesh-editted.jpg)
 Optical Setup
 
 Moving the collimator lens does not effect magnification or focus. It does seem to vary the intensity on the outer edges of the circle. 
@@ -50,5 +51,5 @@ Doing all these calculations gives the true locations of all the components in t
 imaging lens after fourier transform plane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTIyNzIsMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbMTAwNjA0ODUxNCwxNzgxMjI1NjY0XX0=
 -->
