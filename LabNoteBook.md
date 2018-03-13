@@ -4,6 +4,8 @@
 ## Day 1 2018 03 06
 ### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
 
+
+
 Mesh that we used has 40 lines/cm
 
 ![Optical Set-up for Wire Mesh Experiment](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/20180306-figure1opticalset-up-wiremesh-editted.jpg)
@@ -95,7 +97,20 @@ Next we put the Lazy X in
 Again we invert the image:
 ![INVERTED N FILTERED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1-INVERTED.jpg)
 
+
+
+### Phase Contrast
+
+
+| Object | Set-up Distance at back of rail slider (cm)|
+|--|--|
+|Spatial Filter|33.3|
+|Transform Lens|167|
+|Mesh|108.5|
+|Collimating Lens|55.8|
+|Imaging Lens|265.5|
+|Object Plane from knife edge|107.1|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTk3ODY4MSwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTExMDE1MTc2ODEsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
