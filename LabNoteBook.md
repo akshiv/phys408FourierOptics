@@ -54,8 +54,10 @@ imaging lens after fourier transform plane
 
  
 ## Day 2 2018 03 13
-### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
+### Character Recognition, Phase-Contrasting and Diffraction:
+
+Set up the experiment with the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzE5NjEzOSwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTE4MDk2MTI1MDYsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
