@@ -51,7 +51,13 @@ Doing all these calculations gives the true locations of all the components in t
 
 Imaging lens was placed after the fourier transform plane
 
-### 
+### Mesh Filtering Experiment
+
+
+### Dark Image
+
+
+
  
 ## Day 2 2018 03 13
 ### Character Recognition, Phase-Contrasting and Diffraction:
@@ -111,6 +117,6 @@ Again we invert the image:
 |Imaging Lens|248.5|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDE2OTM0MiwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbMzk1NzExMDQsMTM2NjgzNDc1NSwzOTYxOD
+gwMDVdfQ==
 -->
