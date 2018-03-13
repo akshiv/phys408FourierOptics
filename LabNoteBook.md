@@ -54,7 +54,7 @@ Imaging lens was placed after the fourier transform plane
 ### Mesh Filtering Experiment
 
 
-### Dark Image
+### Dark-field Image
 
 
 
@@ -104,7 +104,7 @@ Again we invert the image:
 
 
 
-### Phase Contrast
+### Phase-Contrast
 
 
 | Object | Set-up Distance at back of rail slider (cm)|
@@ -117,6 +117,6 @@ Again we invert the image:
 |Imaging Lens|248.5|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NzExMDQsMTM2NjgzNDc1NSwzOTYxOD
-gwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NzU1ODkwODgsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
