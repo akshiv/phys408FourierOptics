@@ -49,10 +49,9 @@ Doing all these calculations gives the true locations of all the components in t
 |Collimating Lens|$58.85 \pm 0.1$|
 |Object Plane from knife edge| 107.1 |
 
+Imaging lens was placed after the fourier transform plane
 
-
-imaging lens after fourier transform plane
-
+### 
  
 ## Day 2 2018 03 13
 ### Character Recognition, Phase-Contrasting and Diffraction:
@@ -112,6 +111,6 @@ Again we invert the image:
 |Imaging Lens|248.5|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEwNjA3NDAsMTM2NjgzNDc1NSwzOT
-YxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMTUzNDE2OTM0MiwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
