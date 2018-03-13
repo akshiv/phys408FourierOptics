@@ -2,7 +2,7 @@
 ### Adam Schonewille 31590136 
 ### Akshiv Bansal 35072131
 ## Day 1 2018 03 06
-### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
+## Optical Set-up, Magnification Observations and Wire Mesh Experiments:
 
 
 ### Optical Setup and Alignment
@@ -112,6 +112,6 @@ Again we invert the image:
 |Imaging Lens|248.5|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDMxNTE2NSwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTEwMzEwNjA3NDAsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
