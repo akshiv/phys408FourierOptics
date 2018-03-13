@@ -53,6 +53,7 @@ Imaging lens was placed after the fourier transform plane
 
 ### Mesh Filtering Experiment
 
+Grid spacing from paper:  
 
 ### Dark-field Image
 
@@ -117,6 +118,6 @@ Again we invert the image:
 |Imaging Lens|248.5|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU1ODkwODgsMTM2NjgzNDc1NSwzOT
+eyJoaXN0b3J5IjpbLTE4MzA3Nzg1OTEsMTM2NjgzNDc1NSwzOT
 YxODgwMDVdfQ==
 -->
