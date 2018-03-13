@@ -58,7 +58,7 @@ imaging lens after fourier transform plane
 
 ### Character Recognition:
 
-In todays experiments we placed a sheet of grid paper onto the image plane to be able to see the difference in skew that the camera has on the image plane. This is because the camera vews the First we set up the optical rail as follows to view the NOZON object in the image plane:
+In todays experiments we placed a sheet of grid paper onto the image plane to be able to see the difference in skew that the camera has on the image plane. This is because the camera views the First we set up the optical rail as follows to view the NOZON object in the image plane:
 - **Experimental set-up:** 
 - Collimating Lens
 - NOZON aperture in object plane
@@ -86,6 +86,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NTQ5NzgxLDEzNjY4MzQ3NTUsMzk2MT
-g4MDA1XX0=
+eyJoaXN0b3J5IjpbMTU4NjQzMTMxNiwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
