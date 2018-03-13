@@ -59,20 +59,23 @@ imaging lens after fourier transform plane
 ### Character Recognition:
 
 First we set up the optical rail as follows to view the NOZON object inthe image plane:
-**Experimental set-up:** 
+- **Experimental set-up:** 
 - Collimating Lens
 - NOZON aperture in object plane
 - Fourier Transform Lens
 
-We were able to get the 
+We were able to get a clear image of the NOZON aperture:
+
+
 
 
 Next we added the Imagining lens into the set up to view the fourier transform:
-**Experimental set-up:** 
-Collimating Lens
-NOZON aperture in object plane
-Fourier Transform Lens
-Imaging Lens to see the FT of the NOZON object
+- **Experimental set-up:** 
+- Collimating Lens
+- NOZON aperture in object plane
+- Fourier Transform Lens
+- Imaging Lens to see the FT of the NOZON object
+
 ![FT of the NOZON filter](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-113721-1.jpeg)
 
 Can also invert the image to save on ink and see more clearly what is going on:
@@ -80,6 +83,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTAwMTIwMTEsMTM2NjgzNDc1NSwzOT
-YxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMTMyNzIyMjMxMSwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
