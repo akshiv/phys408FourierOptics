@@ -58,6 +58,10 @@ imaging lens after fourier transform plane
 
 ### Character Recognition:
 
+
+
+
+Next we added the Imagining lens into the set up to view hte fourier transform
 Experimental set-up: 
 Collimating Lens
 NOZON aperture in object plane
@@ -66,9 +70,10 @@ Imaging Lens to see the FT of the NOZON object
 ![FT of the NOZON filter](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-113721-1.jpeg)
 
 Can also invert the image to save on ink and see more clearly what is going on:
-![Inverted FT of NOZON filter](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-113721-1-INVERTED.jpg
+![Inverted FT of NOZON filter](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-113721-1-INVERTED.jpg)
 
+Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTI0NTQxMiwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTIxMzgyMjgxMTksMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
