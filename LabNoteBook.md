@@ -53,5 +53,5 @@ Doing all these calculations gives the true locations of all the components in t
 imaging lens after fourier transform plane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MTg4MDA1LDE3ODEyMjU2NjRdfQ==
+eyJoaXN0b3J5IjpbMTM2NjgzNDc1NSwzOTYxODgwMDVdfQ==
 -->
