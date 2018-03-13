@@ -58,7 +58,7 @@ imaging lens after fourier transform plane
 
 ### Character Recognition:
 
-In todays experiments we placed a sheet of grid paper onto the image plane to be able to see the difference in skew that the camera has on the image plane. This is because the camera views the First we set up the optical rail as follows to view the NOZON object in the image plane:
+In todays experiments we placed a sheet of grid paper onto the image plane to be able to see the difference in skew that the camera has on the image plane. This is because the camera views the image plane at an angle and so the bottom of the field of view is smaller than the top. First we set up the optical rail as follows to view the NOZON object in the image plane:
 - **Experimental set-up:** 
 - Collimating Lens
 - NOZON aperture in object plane
@@ -70,7 +70,8 @@ We were able to get a clear image of the NOZON aperture:
 We can also invert the image to get a clearer image:
 ![INVERTED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114640-1-INVERTED.jpg)
 
-We attempted to adjust the gain
+We attempted to adjust the gain so that the image can be seen against the grid of paper to view the camera skew:
+
 
 Next we added the Imagining lens into the set up to view the fourier transform:
 - **Experimental set-up:** 
@@ -86,6 +87,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjQzMTMxNiwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTE0Mzc2MDk1MTAsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
