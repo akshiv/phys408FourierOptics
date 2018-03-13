@@ -56,8 +56,12 @@ imaging lens after fourier transform plane
 ## Day 2 2018 03 13
 ### Character Recognition, Phase-Contrasting and Diffraction:
 
-Set up the experiment with the
+### Character Recognition:
+
+Experimental set-up: 
+Collimating lens
+NOZON filobject 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk2MTI1MDYsMTM2NjgzNDc1NSwzOT
-YxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMTM0MDY3Njc4LDEzNjY4MzQ3NTUsMzk2MT
+g4MDA1XX0=
 -->
