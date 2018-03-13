@@ -54,8 +54,19 @@ imaging lens after fourier transform plane
 
  
 ## Day 2 2018 03 13
-### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
+### Character Recognition, Phase-Contrasting and Diffraction:
+
+### Character Recognition:
+
+Experimental set-up: 
+Collimating Lens
+NOZON aperture in object plane
+Fourier Transform Lens
+Imaging Lens to see the FT of the NOZON object
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzE5NjEzOSwxMzY2ODM0NzU1LDM5Nj
+eyJoaXN0b3J5IjpbMjA3MTgzNzkyMCwxMzY2ODM0NzU1LDM5Nj
 E4ODAwNV19
 -->
