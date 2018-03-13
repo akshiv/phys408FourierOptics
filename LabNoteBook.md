@@ -118,11 +118,12 @@ Again we invert the image:
 |Imaging Lens|248.5|
 
 
-Bottom right fringes seperation (between successive bright nodes):
+Bottom-right fringes seperation (between successive bright nodes):
 5mm
 
+Top-middle-right fringes seperation (between successive bright nodes):
 3.5-4mm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDc0Mjc0NSwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTE1MTY2ODcwMDUsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
