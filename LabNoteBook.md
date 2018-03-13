@@ -29,6 +29,7 @@ For ease of reconstruction:
 
 
 The distances from the back of several objects to the center of the lenses/apertures is recorded for relative measurements. This was  the set-up distances can be related to the locations of action and used in the calculations later on. 
+
 | Object | Offset Distances (cm)|
 |--|--|
 |Spatial Filter Offset ($\Delta$)|11.5|
@@ -52,5 +53,5 @@ Doing all these calculations gives the true locations of all the components in t
 imaging lens after fourier transform plane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY2NzY1ODksMTc4MTIyNTY2NF19
+eyJoaXN0b3J5IjpbMzk2MTg4MDA1LDE3ODEyMjU2NjRdfQ==
 -->
