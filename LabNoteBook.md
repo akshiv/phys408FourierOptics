@@ -52,7 +52,10 @@ Doing all these calculations gives the true locations of all the components in t
 
 imaging lens after fourier transform plane
 
+ 
+## Day 2 2018 03 13
+### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MTg4MDA1LDEzNjY4MzQ3NTUsMzk2MT
-g4MDA1XX0=
+eyJoaXN0b3J5IjpbLTI5MzE5NjEzOSwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
