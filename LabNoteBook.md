@@ -61,7 +61,7 @@ imaging lens after fourier transform plane
 
 
 
-Next we added the Imagining lens into the set up to view the fourier transform
+Next we added the Imagining lens into the set up to view the fourier transform:
 Experimental set-up: 
 Collimating Lens
 NOZON aperture in object plane
@@ -74,6 +74,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTk3MDE3NSwxMzY2ODM0NzU1LDM5Nj
+eyJoaXN0b3J5IjpbMTM3MTcxNDg3NywxMzY2ODM0NzU1LDM5Nj
 E4ODAwNV19
 -->
