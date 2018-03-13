@@ -121,8 +121,8 @@ Again we invert the image:
 Bottom right fringes seperation (between successive bright nodes):
 5mm
 
-3.5-4
+3.5-4mm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NzA5ODk1LDEzNjY4MzQ3NTUsMzk2MT
-g4MDA1XX0=
+eyJoaXN0b3J5IjpbLTk3MDc0Mjc0NSwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
