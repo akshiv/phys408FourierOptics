@@ -86,8 +86,12 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 The FT of the NOZON aperture looks similar to an asterisk (*) and in order to 
 
-Next we put the Lazy X in 
+Next we put the Lazy X in
+
+
+
+https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1.jpeg 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDQ2OTg3MCwxMzY2ODM0NzU1LDM5Nj
+eyJoaXN0b3J5IjpbMTEyMTk1MTc5MCwxMzY2ODM0NzU1LDM5Nj
 E4ODAwNV19
 -->
