@@ -118,8 +118,9 @@ Again we invert the image:
 |Imaging Lens|248.5|
 
 
-bottom right fringes seperation
+Bottom right fringes seperation (between successive bright nodes):
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTg4MjE4OCwxMzY2ODM0NzU1LDM5Nj
+eyJoaXN0b3J5IjpbMTUzMTk1Mjg0NywxMzY2ODM0NzU1LDM5Nj
 E4ODAwNV19
 -->
