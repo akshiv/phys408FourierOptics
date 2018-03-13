@@ -65,8 +65,8 @@ First we set up the optical rail as follows to view the NOZON object inthe image
 - Fourier Transform Lens
 
 We were able to get a clear image of the NOZON aperture:
-
-
+![]
+https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114640-1.jpeg)
 
 
 Next we added the Imagining lens into the set up to view the fourier transform:
@@ -83,6 +83,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzIyMjMxMSwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTEwMzUxMzA4NDUsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
