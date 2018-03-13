@@ -63,10 +63,10 @@ Collimating Lens
 NOZON aperture in object plane
 Fourier Transform Lens
 Imaging Lens to see the FT of the NOZON object
-![]
-(https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-113721-1.jpeg)
+![FT of the NOZON filter](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-113721-1.jpeg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTAzNjE2MSwxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbLTE2Mjk1Mjc3MDUsMTM2NjgzNDc1NSwzOT
+YxODgwMDVdfQ==
 -->
