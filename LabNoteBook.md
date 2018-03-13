@@ -60,10 +60,7 @@ imaging lens after fourier transform plane
 
 First we set up the optical rail as follows to view the NOZON object inthe image plane:
 **Experimental set-up:** 
-
- - List item
-
-Collimating Lens
+-Collimating Lens
 NOZON aperture in object plane
 Fourier Transform Lens
 
@@ -83,6 +80,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzc4NDYsMTM2NjgzNDc1NSwzOTYxOD
-gwMDVdfQ==
+eyJoaXN0b3J5IjpbMTI0NjEyNjA3NywxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
