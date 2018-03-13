@@ -94,8 +94,9 @@ https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_d
 
 
 Again we invert the image:
-![INVERTED N FILTERED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1-INVERTED.jpg
+![INVERTED N FILTERED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1-INVERTED.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkxNTk1NDMsMTM2NjgzNDc1NSwzOT
-YxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMTQ2MjIxMDgzMiwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
