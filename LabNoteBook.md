@@ -5,7 +5,7 @@
 ### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
 
 
-
+### Optical Setup and Alignment
 Mesh that we used has 40 lines/cm
 
 ![Optical Set-up for Wire Mesh Experiment](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/20180306-figure1opticalset-up-wiremesh-editted.jpg)
@@ -108,10 +108,10 @@ Again we invert the image:
 |Collimating Lens|102.3|
 |Phase Grating|148.4|
 |Transform Lens|204.0|
-|Wedge Knife Blade||
-|Imaging Lens||
+|Wedge Knife Blade|236.2|
+|Imaging Lens|248.5|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODIzNjg0NywxMzY2ODM0NzU1LDM5Nj
+eyJoaXN0b3J5IjpbMTE2MDMxNTE2NSwxMzY2ODM0NzU1LDM5Nj
 E4ODAwNV19
 -->
