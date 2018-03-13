@@ -60,8 +60,8 @@ imaging lens after fourier transform plane
 
 Experimental set-up: 
 Collimating lens
-NOZON filobject 
+NOZON filter in object p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDY3Njc4LDEzNjY4MzQ3NTUsMzk2MT
-g4MDA1XX0=
+eyJoaXN0b3J5IjpbMTc0OTc0MTgxMiwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
