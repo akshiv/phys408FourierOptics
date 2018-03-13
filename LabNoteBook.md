@@ -59,9 +59,14 @@ imaging lens after fourier transform plane
 ### Character Recognition:
 
 Experimental set-up: 
-Collimating lens
-NOZON filter in object plane
+Collimating Lens
+NOZON aperture in object plane
+Fourier Transform Lens
+Imaging Lens to see the FT of the NOZON object
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTE4MDc5MiwxMzY2ODM0NzU1LDM5Nj
+eyJoaXN0b3J5IjpbMjA3MTgzNzkyMCwxMzY2ODM0NzU1LDM5Nj
 E4ODAwNV19
 -->
