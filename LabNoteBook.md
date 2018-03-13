@@ -105,12 +105,13 @@ Again we invert the image:
 | Object | Set-up Distance at back of rail slider (cm)|
 |--|--|
 |Spatial Filter|33.3|
-|Transform Lens|167|
-|Mesh|108.5|
 |Collimating Lens|55.8|
+|Phase Grating|55.8|
+|Transform Lens|167|
+|Wedge Knife Blade|107.1|
 |Imaging Lens|265.5|
-|Object Plane from knife edge|107.1|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE1MTc2ODEsMTM2NjgzNDc1NSwzOT
-YxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMjA1OTgwNDQ5OSwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
