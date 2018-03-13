@@ -71,7 +71,8 @@ We can also invert the image to get a clearer image:
 ![INVERTED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114640-1-INVERTED.jpg)
 
 We attempted to adjust the gain so that the image can be seen against the grid of paper to view the camera skew:
-
+![Gain adjusted ]
+https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114715-1.jpeg)
 
 Next we added the Imagining lens into the set up to view the fourier transform:
 - **Experimental set-up:** 
@@ -87,6 +88,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc2MDk1MTAsMTM2NjgzNDc1NSwzOT
+eyJoaXN0b3J5IjpbLTIwNDM3NzAzMjYsMTM2NjgzNDc1NSwzOT
 YxODgwMDVdfQ==
 -->
