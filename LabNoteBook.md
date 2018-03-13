@@ -53,7 +53,7 @@ Imaging lens was placed after the fourier transform plane
 
 ### Mesh Filtering Experiment
 
-Grid spacing from paper:  
+Grid spacing from paper:  1/8"
 
 ### Dark-field Image
 
@@ -117,7 +117,9 @@ Again we invert the image:
 |Wedge Knife Blade|236.2|
 |Imaging Lens|248.5|
 
+
+bottom right fringes seperation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA3Nzg1OTEsMTM2NjgzNDc1NSwzOT
-YxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMTIxOTg4MjE4OCwxMzY2ODM0NzU1LDM5Nj
+E4ODAwNV19
 -->
