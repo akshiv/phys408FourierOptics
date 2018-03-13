@@ -89,13 +89,13 @@ The FT of the NOZON aperture looks similar to an asterisk (*) and in order to
 Next we put the Lazy X in
 
 
-![FIltered ](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1.jpeg)
+![FIltered out N's from the NOZON image](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1.jpeg)
 
 
 Again we invert the image:
 ![INVERTED N FILTERED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1-INVERTED.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAzOTM0MSwxMzY2ODM0NzU1LDM5Nj
+eyJoaXN0b3J5IjpbMTU0OTk3ODY4MSwxMzY2ODM0NzU1LDM5Nj
 E4ODAwNV19
 -->
