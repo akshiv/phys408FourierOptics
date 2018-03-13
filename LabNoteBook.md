@@ -1,13 +1,12 @@
 # Lab Notebook 
+### Adam Schonewille 31590136 
+### Akshiv Bansal 35072131
 ## Day 1 2018 03 06
 ### Optical Set-up, Magnification Observations and Wire Mesh Experiments:
 
 Mesh that we used has 40 lines/cm
 
 ![Optical Set-up for Wire Mesh Experiment](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/20180306-figure1opticalset-up-wiremesh-editted.jpg)
-
-
-
 
 Moving the collimator lens does not effect magnification or focus. It does seem to vary the intensity on the outer edges of the circle. 
 
@@ -87,6 +86,6 @@ Can also invert the image to save on ink and see more clearly what is going on:
 
 Next we put 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjA1Njc0MywxMzY2ODM0NzU1LDM5Nj
-E4ODAwNV19
+eyJoaXN0b3J5IjpbMTkzMTAzMjE4LDEzNjY4MzQ3NTUsMzk2MT
+g4MDA1XX0=
 -->
