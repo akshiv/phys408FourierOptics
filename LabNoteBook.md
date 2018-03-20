@@ -183,8 +183,9 @@ Set Blade Aperture Position: $20.15 \pm 0.5$ mm
 Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 
 
+file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc3NzI5NjksLTE1MTY2ODcwMDUsMT
+eyJoaXN0b3J5IjpbLTEwMDgyODE2NzgsLTE1MTY2ODcwMDUsMT
 M2NjgzNDc1NSwzOTYxODgwMDVdfQ==
 -->
