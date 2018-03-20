@@ -56,7 +56,24 @@ Imaging lens was placed after the fourier transform plane
 Grid spacing from paper:  1/8"
 
 ### Dark-field Image
+Mesh that we used has 40 lines/cm
+![Wire Mesh Image](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/FourierAlligmentTest20180306.jpeg)
 
+![Rotated wire mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124444-1.jpeg)
+
+
+![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
+
+
+Comment: <!\[endif\]--> Please don't forget that you should be calculating the spatial frequency, taking into account magnification
+
+FourierAlligmentTest20180306
+snap-unknown-20180306-124444-1
+snap-unknown-20180306-125246-1
+
+### Dark-field Image
+
+![Dark-field Image of the glass struck to knife edge](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/Dark%20Field/snap-unknown-20180306-133457-1.jpeg)
 
 
  
@@ -123,7 +140,49 @@ Bottom-right fringes seperation (between successive bright nodes):
 
 Top-middle-right fringes seperation (between successive bright nodes):
 3.5-4mm
+
+
+
+
+### Redo of Mesh Filtering Experiment to find Magnification
+Grid spacing from paper:  1/8"
+Mesh that we used has 40 lines/cm
+
+
+
+## Day 3 2018 03 20
+### Fraunhofer and Fresnel Diffraction Regimes and Misc Lab Write up:
+
+
+#### Fresnel Magnification
+We had the idea to take a dark-field image of the setup with the blades. Previous Dark-field Images have produced only the 
+
+**Aperture settings:**
+Blade aperture separation: $21.20 \pm 0.01$ mm (during measurement)
+Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
+Set Aperture 
+
+**Measured distance with a ruler:** 
+On paper $12.7 \pm 0.2$ mm 
+On screen $13.0 \pm 0.2$ mm 
+**Measured with Image Processing:** 
+
+
+
+
+
+Dark Field Fresnel and Fraunhofer Images
+
+
+**For all Optical Components**
+
+
+**For no Optical Components:**
+Measured slit width on image plane: $5.5 \pm 0.5$ mm
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY2ODcwMDUsMTM2NjgzNDc1NSwzOT
-YxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMTczNjgzNDI1NCwtMTUxNjY4NzAwNSwxMz
+Y2ODM0NzU1LDM5NjE4ODAwNV19
 -->
