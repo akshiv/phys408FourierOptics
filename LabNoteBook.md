@@ -179,10 +179,10 @@ Dark Field Fresnel and Fraunhofer Images
 
 **For no Optical Components:**
 Measured slit width on image plane: $5.5 \pm 0.5$ mm
-
+Set Position for the slit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjgzNDI1NCwtMTUxNjY4NzAwNSwxMz
+eyJoaXN0b3J5IjpbLTkyODMzNDkxNywtMTUxNjY4NzAwNSwxMz
 Y2ODM0NzU1LDM5NjE4ODAwNV19
 -->
