@@ -179,10 +179,12 @@ Dark Field Fresnel and Fraunhofer Images
 
 **For no Optical Components:**
 Measured slit width on image plane: $5.5 \pm 0.5$ mm
-Set Position for the slit
+Set Blade Aperture Position: $20.15 \pm 0.5$ mm 
+Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODMzNDkxNywtMTUxNjY4NzAwNSwxMz
-Y2ODM0NzU1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbLTIxMTc3NzI5NjksLTE1MTY2ODcwMDUsMT
+M2NjgzNDc1NSwzOTYxODgwMDVdfQ==
 -->
