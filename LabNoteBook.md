@@ -63,6 +63,7 @@ Doing all these calculations gives the true locations of all the components in t
 Imaging lens was placed after the Fourier transform plane
 
 
+4. Create a sketch in your lab book (similiar to Fig. 4.2) showing the location of each of the lenses and planes in your two setups: i) for the object and image planes, and ii) for the Fourier transform plane. 
 
 
 
@@ -200,6 +201,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTY4MDQsLTEwMDgyODE2NzgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbMTIyMzg2ODIyMCwtMTAwODI4MTY3OCwtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
