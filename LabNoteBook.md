@@ -97,6 +97,7 @@ snap-unknown-20180306-125246-1
 5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124422-1.jpeg)
 ![Rotated wire mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124444-1.jpeg)
+
 6. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
 
 7. What wire spacing do these spatial frequencies correspond to this correspond to? 
@@ -221,6 +222,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQwOTMwOTYsLTEwMDgyODE2NzgsLT
+eyJoaXN0b3J5IjpbLTEyMDUzMzg4MzgsLTEwMDgyODE2NzgsLT
 E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
