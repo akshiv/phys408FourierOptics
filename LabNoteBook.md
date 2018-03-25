@@ -103,9 +103,11 @@ snap-unknown-20180306-125246-1
 7. What wire spacing do these spatial frequencies correspond to this correspond to? 
 8. How does this compare to what you expect? 
 9. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
+ ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/KnifeEdge%20Vertical%20Filter/snap-unknown-20180306-130436-1.jpeg)
  
  10. Try producing lines at 45◦ and horizontal. If you are able to produce these lines, explain how you did it and explanation of why its works. Include a picture with your explanation. 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-131758-1.jpeg)
+
 
 ### Dark-field Image
 
@@ -222,6 +224,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUzMzg4MzgsLTEwMDgyODE2NzgsLT
-E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTYyODQ0NTc2NCwtMTAwODI4MTY3OCwtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
