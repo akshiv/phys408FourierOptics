@@ -118,9 +118,9 @@ Looking at the Fourier transform here makes it clear that only these vertical co
 
 1. What is meant by a “dark-field image”? What aperture can you use to produce a dark field image? 
 
-	2. Which object will give the best visibility of the “dark-field image” effect? Justify your answer 
+2. Which object will give the best visibility of the “dark-field image” effect? Justify your answer 
 
-	3. Which aperture will you use in the Fourier transform plane to produce the dark field image? Describe and explain your observations and take a picture for your lab book. 
+3. Which aperture will you use in the Fourier transform plane to produce the dark field image? Describe and explain your observations and take a picture for your lab book. 
  
 ## Day 2 2018 03 13
 ### Character Recognition, Phase-Contrasting and Diffraction:
@@ -231,6 +231,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTY4MTA2NywtMTAwODI4MTY3OCwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbNDQzNzExNjMsLTEwMDgyODE2NzgsLTE1MT
+Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
