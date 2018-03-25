@@ -113,7 +113,7 @@ Looking at the Fourier transform here makes it clear that only these vertical co
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/3d45tform.png)
 
 ### Dark-field Image
-
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/Dark%20Field/snap-unknown-20180306-133527-1.jpeg)
 ![Dark-field Image of the glass struck to knife edge](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/Dark%20Field/snap-unknown-20180306-133457-1.jpeg)
 
 
@@ -227,6 +227,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjc0ODUzMiwtMTAwODI4MTY3OCwtMT
+eyJoaXN0b3J5IjpbMTYxMTU2ODM0NSwtMTAwODI4MTY3OCwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
