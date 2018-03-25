@@ -11,6 +11,17 @@ Mesh that we used has 40 lines/cm
 ![Optical Set-up for Wire Mesh Experiment](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/20180306-figure1opticalset-up-wiremesh-editted.jpg)
 
 Moving the collimator lens does not effect magnification or focus. It does seem to vary the intensity on the outer edges of the circle. 
+1. Why is the spatial filter important for this lab? 
+
+The primary purpose of the spatial filter is to remove any higher order spatial modes that maybe present in the laser output. This helps to create a single Gaussian beam, which behaves more predictably and is easier to model. 
+
+2.  What is the best object to use in order to define an object and image plane combination? Why? Use this object to find an object plane and the corresponding image plane. 
+
+First we used the pointed rod to align the spatial filter and laser combination, ensuring our beam was parallel to the rail at all points. Then to find the object plane we placed the razor blade with the clear plastic wedge attached to in approximate location of the object plane. Then we made slight adjustments until we could produce a sharp image on the screen. 
+
+3. What is the best object to use in order to find the Fourier transform plane? Use this object to find the Fourier transform plane 
+
+To find the Fourier transform plane, we used the mesh filter because it produces a very identifiable Fourier transform. With this object in the object plane we moved a screen into the approximate location of the Fourier transform plane and adjusted it until it was sharp. We then recorded the location of both of these planes. 
 
 We placed the spatial filter at the following settings:
 Image plane
@@ -51,17 +62,8 @@ Doing all these calculations gives the true locations of all the components in t
 
 Imaging lens was placed after the Fourier transform plane
 
-1. Why is the spatial filter important for this lab? 
 
-The primary purpose of the spatial filter is to remove any higher order spatial modes that maybe present in the laser output. This helps to create a single Gaussian beam, which behaves more predictably and is easier to model. 
 
-2.  What is the best object to use in order to define an object and image plane combination? Why? Use this object to find an object plane and the corresponding image plane. Verify that your object and image plane distances are consistent with the first year physics imaging formula referred to above. Hint: it may be useful to magnify your image onto the screen on the other rail. 
-
-First we used the pointed rod to align the spatial filter and laser combination, ensuring our beam was parallel to the rail at all points. Then to find the object plane we placed the razor blade with the clear plastic wedge attached to in approximate location of the object plane. Then we made slight adjustments until we could produce a sharp image on the screen. 
-
-3. What is the best object to use in order to find the Fourier transform plane? Use this object to find the Fourier transform plane 
-
-To find the Fourier transform plane, we used the mesh filter because it produces a very identifiable Fourier transform. With this object in the object plane we moved a screen into the approximate location of the Fourier transform plane and adjusted it until it was sharp. We then recorded the location of both of these planes. 
 
 
 ### Mesh Filtering Experiment
@@ -198,6 +200,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNDI1NjIxLC0xMDA4MjgxNjc4LC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbMjk0OTY4MDQsLTEwMDgyODE2NzgsLTE1MT
+Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
