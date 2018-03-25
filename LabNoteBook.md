@@ -49,13 +49,14 @@ Doing all these calculations gives the true locations of all the components in t
 |Collimating Lens|$58.85 \pm 0.1$|
 |Object Plane from knife edge| 107.1 |
 
-Imaging lens was placed after the fourier transform plane
+Imaging lens was placed after the Fourier transform plane
+
+
 
 ### Mesh Filtering Experiment
 
 Grid spacing from paper:  1/8"
 
-### Dark-field Image
 Mesh that we used has 40 lines/cm
 ![Wire Mesh Image](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/FourierAlligmentTest20180306.jpeg)
 
@@ -186,6 +187,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NzQxMzIsLTEwMDgyODE2NzgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbNDEwMzk1ODA1LC0xMDA4MjgxNjc4LC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
