@@ -63,7 +63,7 @@ Doing all these calculations gives the true locations of all the components in t
 Imaging lens was placed after the Fourier transform plane
 
 
-4. Create a sketch in your lab book (similiar to Fig. 4.2) showing the location of each of the lenses and planes in your two setups: i) for the object and image planes, and ii) for the Fourier transform plane. 
+4. Create a sketch in your lab book (similar to Fig. 4.2) showing the location of each of the lenses and planes in your two setups: i) for the object and image planes, and ii) for the Fourier transform plane. 
 
 
 
@@ -85,6 +85,26 @@ Comment: <!\[endif\]--> Please don't forget that you should be calculating the s
 FourierAlligmentTest20180306
 snap-unknown-20180306-124444-1
 snap-unknown-20180306-125246-1
+
+1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
+
+	2. Does this magnification agree with the thin lens formula? Include a picture of the magnified image. Be sure to indicate the scale. 
+
+	3. Separately, use an additional lens to generate a magnified image of the Fourier transform plane onto the screen and take a picture. 
+
+	4. What do the bright spots in the Fourier transform plane represent? 
+
+	5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
+
+	6. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
+
+	7. What wire spacing do these spatial frequencies correspond to this correspond to? 
+
+	8. How does this compare to what you expect? 
+
+	9. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
+ 
+	10. Try producing lines at 45◦ and horizontal. If you are able to produce these lines, explain how you did it and explanation of why its works. Include a picture with your explanation. 
 
 ### Dark-field Image
 
@@ -201,6 +221,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzg2ODIyMCwtMTAwODI4MTY3OCwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbMzM1MzY2MzQsLTEwMDgyODE2NzgsLTE1MT
+Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
