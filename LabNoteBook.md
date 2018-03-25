@@ -104,7 +104,8 @@ snap-unknown-20180306-125246-1
 8. How does this compare to what you expect? 
 9. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/KnifeEdge%20Vertical%20Filter/snap-unknown-20180306-130436-1.jpeg)
- 
+ ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/Screen%20Shot%202018-03-25%20at%201.32.02%20PM.png)
+Looking at the Fourier transform here makes it clear that only these vertical components survived. This is made more obvoo
  10. Try producing lines at 45◦ and horizontal. If you are able to produce these lines, explain how you did it and explanation of why its works. Include a picture with your explanation. 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-131758-1.jpeg)
 
@@ -224,6 +225,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODQ0NTc2NCwtMTAwODI4MTY3OCwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbOTE3MTA2MjA0LC0xMDA4MjgxNjc4LC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
