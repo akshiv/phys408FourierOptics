@@ -116,7 +116,11 @@ Looking at the Fourier transform here makes it clear that only these vertical co
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/Dark%20Field/snap-unknown-20180306-133527-1.jpeg)
 ![Dark-field Image of the glass struck to knife edge](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/Dark%20Field/snap-unknown-20180306-133457-1.jpeg)
 
+1. What is meant by a “dark-field image”? What aperture can you use to produce a dark field image? 
 
+	2. Which object will give the best visibility of the “dark-field image” effect? Justify your answer 
+
+	3. Which aperture will you use in the Fourier transform plane to produce the dark field image? Describe and explain your observations and take a picture for your lab book. 
  
 ## Day 2 2018 03 13
 ### Character Recognition, Phase-Contrasting and Diffraction:
@@ -227,6 +231,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTU2ODM0NSwtMTAwODI4MTY3OCwtMT
+eyJoaXN0b3J5IjpbMTUzMTY4MTA2NywtMTAwODI4MTY3OCwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
