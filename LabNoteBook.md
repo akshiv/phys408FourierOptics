@@ -82,10 +82,6 @@ Mesh that we used has 40 lines/cm
 
 Comment: <!\[endif\]--> Please don't forget that you should be calculating the spatial frequency, taking into account magnification
 
-FourierAlligmentTest20180306
-snap-unknown-20180306-124444-1
-snap-unknown-20180306-125246-1
-
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
 
 2. Does this magnification agree with the thin lens formula? Include a picture of the magnified image. Be sure to indicate the scale. 
@@ -231,6 +227,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTI1ODE3LDQ0MzcxMTYzLC0xNTE2Nj
-g3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbMTAyNTMzNzEyOSw0NDM3MTE2MywtMTUxNj
+Y4NzAwNSwzOTYxODgwMDVdfQ==
 -->
