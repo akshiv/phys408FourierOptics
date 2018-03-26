@@ -121,7 +121,7 @@ The dark field image is missing the central spatial frequency, in the Fourier tr
 In our opinion the razor blade with a plastic wedge glued to it provides the best dark field image. This is because the dark field illuminates triangle shape, which is invisible in the normal image. The dark field image clearly shows the outline of the triangle, which was absent in the first picture. 
 
 We also tried dark field imaging with a mesh transform. As expected it removed the central bright spot in the diffraction pattern. 
-
+![Cent](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131635-1.jpeg)
  
 ## Day 2 2018 03 13
 ### Character Recognition, Phase-Contrasting and Diffraction:
@@ -232,6 +232,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTIzNjIyMSwtNzM1NDEzNzUzLC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbLTEzNzQ3OTExNzIsLTczNTQxMzc1MywtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
