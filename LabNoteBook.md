@@ -195,13 +195,18 @@ Grid spacing from paper:  1/8"
 Mesh that we used has 40 lines/cm
 | Peak Pixel Location | Difference Between Peaks |  Mean |
 |--|--|--|
-| 408 |  |  |
-| 414 |  |  |
-| 421 |  |  |
-| 426 |  |  |
-| 433 |  |  |
+| 408 | N/A |  |
+| 414 | 6 |  |
+| 421 | 7 |  |
+| 426 | 5 |  |
+| 433 | 7 |  |
+| 440 |  |  |
+| 446 |  |  |
+Yeah yeay h 
+| Peak Pixel Location | Difference Between Peaks |  Mean |
+|--|--|--|
 |  |  |  |
-|  |  |  |
+
 
 408 414 421 426 433 440 446 ,,, 436 448 460 472 485 498
 
@@ -242,6 +247,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDc1OTE0MCwtMTk3ODUzNzIyOCwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzU4MTY4ODAsLTE5Nzg1MzcyMjgsLT
+E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
