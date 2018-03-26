@@ -214,8 +214,8 @@ This data shows that there is a wire/line every 6.33 pixels on the screen
 | 485 | 13 |  |
 | 498 | 13 | 12.4 |
 The reference image gives the spacing relation between mm and pixels
-There is 3.175 mm per dip and there is also 12.4 pixels per dip
-Therefore there is about 
+There is 3.175 mm/dip and there is also 12.4 pixels/dip
+Therefore there is about 3.9 pixel/mm
 
 
 ## Day 3 2018 03 20
@@ -254,6 +254,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDEzNTcwNywtMTk3ODUzNzIyOCwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE2NzU4NjgxOTQsLTE5Nzg1MzcyMjgsLT
+E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
