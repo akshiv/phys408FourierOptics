@@ -205,10 +205,12 @@ Mesh that we used has 40 lines/cm
 Yeah yeay h 
 | Peak Pixel Location | Difference Between Peaks |  Mean |
 |--|--|--|
-|  |  |  |
-
-
-408 414 421 426 433 440 446 ,,, 436 448 460 472 485 498
+| 436 | N/A |  |
+| 448 | 12 |  |
+| 460 | 12 |  |
+| 472 | 12 |  |
+| 485 |  |  |
+| 498 |  |  |
 
 
 ## Day 3 2018 03 20
@@ -247,6 +249,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkxNjgyOTEsLTE5Nzg1MzcyMjgsLT
-E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbMTA2MDk4OTk5OCwtMTk3ODUzNzIyOCwtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
