@@ -63,10 +63,6 @@ Doing all these calculations gives the true locations of all the components in t
 Imaging lens was placed after the Fourier transform plane
 
 
-4. Create a sketch in your lab book (similar to Fig. 4.2) showing the location of each of the lenses and planes in your two setups: i) for the object and image planes, and ii) for the Fourier transform plane. 
-
-
-
 ### Mesh Filtering Experiment
 
 Grid spacing from paper:  1/8"
@@ -231,6 +227,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTM5NTMzNiwtNzM1NDEzNzUzLC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbLTE4NzAzMDI0MjksLTczNTQxMzc1MywtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
