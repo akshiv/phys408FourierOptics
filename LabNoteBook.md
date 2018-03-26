@@ -200,8 +200,8 @@ Mesh that we used has 40 lines/cm
 | 421 | 7 |  |
 | 426 | 5 |  |
 | 433 | 7 |  |
-| 440 |  |  |
-| 446 |  |  |
+| 440 | 7 |  |
+| 446 | 6 | 6.33 |
 Yeah yeay h 
 | Peak Pixel Location | Difference Between Peaks |  Mean |
 |--|--|--|
@@ -247,6 +247,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU4MTY4ODAsLTE5Nzg1MzcyMjgsLT
+eyJoaXN0b3J5IjpbLTIxMTkxNjgyOTEsLTE5Nzg1MzcyMjgsLT
 E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
