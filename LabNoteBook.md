@@ -192,7 +192,7 @@ Top-middle-right fringes seperation (between successive bright nodes):
 
 ### Redo of Mesh Filtering Experiment to find Magnification
 The grid paper that we were using had spacing that could be measured via image processing and compared to the measured value (with a ruler) to obtain a relationship between the camera and the actual spacing.
-Grid spacing from paper:  1/8"
+Grid spacing from paper:  1/8" $\$ 3.175 mm
 Mesh that we used has 40 lines/cm
 
 | Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
@@ -251,6 +251,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDk3Mzk4OCwtMTk3ODUzNzIyOCwtMT
+eyJoaXN0b3J5IjpbMjA0NzA3ODk4NCwtMTk3ODUzNzIyOCwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
