@@ -213,6 +213,7 @@ This data shows that there is a wire/line every 6.33 pixels on the screen
 | 472 | 12 |  |
 | 485 | 13 |  |
 | 498 | 13 | 12.4 |
+The reference image gives the spacing relation between mm and pixels
 
 
 ## Day 3 2018 03 20
@@ -251,6 +252,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzA3MjI1OSwtMTk3ODUzNzIyOCwtMT
+eyJoaXN0b3J5IjpbMjA1MzM0MjQzNCwtMTk3ODUzNzIyOCwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
