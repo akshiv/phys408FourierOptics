@@ -193,7 +193,7 @@ Top-middle-right fringes seperation (between successive bright nodes):
 ### Redo of Mesh Filtering Experiment to find Magnification
 Grid spacing from paper:  1/8"
 Mesh that we used has 40 lines/cm
-| Peak Pixel Location | Difference Between Peaks |  Mean |
+| Peak Pixel Location | Difference Between Peaks |  Mean (Pixels pePeaks) |
 |--|--|--|
 | 408 | N/A |  |
 | 414 | 6 |  |
@@ -209,8 +209,8 @@ Yeah yeay h
 | 448 | 12 |  |
 | 460 | 12 |  |
 | 472 | 12 |  |
-| 485 |  |  |
-| 498 |  |  |
+| 485 | 13 |  |
+| 498 | 13 | 12.4 |
 
 
 ## Day 3 2018 03 20
@@ -249,6 +249,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDk4OTk5OCwtMTk3ODUzNzIyOCwtMT
+eyJoaXN0b3J5IjpbMTU5MjE4NTQ4MiwtMTk3ODUzNzIyOCwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
