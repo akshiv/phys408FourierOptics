@@ -220,7 +220,7 @@ Therefore there is about 3.9 pixels/mm
 
 From this we can assume that on the screen there is 1.62 mm/line
 
-This is a magnification by a factor of 6.487
+This is a magnification by a factor of 6.487 times larger.
 
 ## Day 3 2018 03 20
 ### Fraunhofer and Fresnel Diffraction Regimes and Misc Lab Write up:
@@ -258,6 +258,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTc5NTc1NSwtMTk3ODUzNzIyOCwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjM5MDk5MTIsLTE5Nzg1MzcyMjgsLT
+E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
