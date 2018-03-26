@@ -97,7 +97,9 @@ Comment: <!\[endif\]--> Please don't forget that you should be calculating the s
 6. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
 
 7. What wire spacing do these spatial frequencies correspond to this correspond to? 
+
 8. How does this compare to what you expect? 
+ 
 9. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/KnifeEdge%20Vertical%20Filter/snap-unknown-20180306-130436-1.jpeg)
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/Screen%20Shot%202018-03-25%20at%201.32.02%20PM.png)
@@ -227,6 +229,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTMzNzEyOSw0NDM3MTE2MywtMTUxNj
+eyJoaXN0b3J5IjpbLTczNTQxMzc1Myw0NDM3MTE2MywtMTUxNj
 Y4NzAwNSwzOTYxODgwMDVdfQ==
 -->
