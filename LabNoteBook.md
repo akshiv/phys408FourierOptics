@@ -231,6 +231,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNzExNjMsLTEwMDgyODE2NzgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbMTA4OTI1ODE3LDQ0MzcxMTYzLC0xNTE2Nj
+g3MDA1LDM5NjE4ODAwNV19
 -->
