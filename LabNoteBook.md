@@ -118,7 +118,10 @@ The dark field image is missing the central spatial frequency, in the Fourier tr
 
 2. Which object will give the best visibility of the “dark-field image” effect? Justify your answer 
 
-In our opinion the razor blade with a plastic wedge glued to it provides the best dark field image. This is because the dark field illuminates triangle shape, which is invisible in the normal image. The dark field image cl
+In our opinion the razor blade with a plastic wedge glued to it provides the best dark field image. This is because the dark field illuminates triangle shape, which is invisible in the normal image. The dark field image clearly shows the outline of the triangle, which was absent in the first picture. 
+
+We also tried dark field imaging with a mesh transform. As expected it removed the central bright spot in the diffraction pattern. 
+
  
 ## Day 2 2018 03 13
 ### Character Recognition, Phase-Contrasting and Diffraction:
@@ -229,6 +232,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzYyNTQ2NSwtNzM1NDEzNzUzLC0xNT
+eyJoaXN0b3J5IjpbMTkxNTIzNjIyMSwtNzM1NDEzNzUzLC0xNT
 E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
