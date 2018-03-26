@@ -217,8 +217,7 @@ The reference image gives the spacing relation between mm and pixels
 There is 3.175 mm/dip and there is also 12.4 pixels/dip
 Therefore there is about 3.9 pixels/mm
 
-From this we can assume that on the screen there is 
-pixels/line*mm/pixels
+From this we can assume that on the screen there is 1.62 mm/line
 
 ## Day 3 2018 03 20
 ### Fraunhofer and Fresnel Diffraction Regimes and Misc Lab Write up:
@@ -256,6 +255,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTI2MjM2MCwtMTk3ODUzNzIyOCwtMT
+eyJoaXN0b3J5IjpbMTE2MTgwODc4OCwtMTk3ODUzNzIyOCwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
