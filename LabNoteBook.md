@@ -115,9 +115,11 @@ Looking at the Fourier transform here makes it clear that only these vertical co
 ![Dark-field Image of the glass struck to knife edge](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/Dark%20Field/snap-unknown-20180306-133457-1.jpeg)
 
 1. What is meant by a “dark-field image”? What aperture can you use to produce a dark field image? 
+
 The dark field image is missing the central spatial frequency, in the Fourier transform sense. This means that the zeroth order spot in the Fourier plane is removed. We can produce a dark field image by using the aperture with a dark spot in its center and passing the beam focused to a point through that spot. 
 
-	2. Which object will give the best visibility of the “dark-field image” effect? Justify your answer 
+2. Which object will give the best visibility of the “dark-field image” effect? Justify your answer 
+
 In our opinion the razor blade with a plastic wedge glued to it provides the best dark field image. This is because the dark field illuminates everything except the triangle shape, which is the only visible shape in the normal image. 
  
 ## Day 2 2018 03 13
@@ -229,6 +231,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDY1NjQyOCwtNzM1NDEzNzUzLC0xNT
+eyJoaXN0b3J5IjpbMTk0OTM5NTMzNiwtNzM1NDEzNzUzLC0xNT
 E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
