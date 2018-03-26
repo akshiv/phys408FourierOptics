@@ -194,7 +194,7 @@ Top-middle-right fringes seperation (between successive bright nodes):
 The grid paper that we were using had spacing that could be measured via image processing and compared to the measured value (with a ruler) to obtain a relationship between the camera and the actual spacing.
 Grid spacing from paper:  1/8" $\rightarrow$ 3.175 mm
 Mesh that we used has 40 lines/cm $\rightarrow$  4 lines/mm
-This mesh can also be described as 250
+This mesh can also be described as 250 $\mu$m/line (spacing between lines)
 
 | Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
 |--|--|--|
@@ -220,7 +220,7 @@ Therefore there is about 3.9 pixels/mm
 
 From this we can assume that on the screen there is 1.62 mm/line
 
-This is a magnification by a factor of 
+This is a magnification by a factor of 6.487
 
 ## Day 3 2018 03 20
 ### Fraunhofer and Fresnel Diffraction Regimes and Misc Lab Write up:
@@ -258,6 +258,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjczMzk5ODUsLTE5Nzg1MzcyMjgsLT
-E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbMTUwMTc5NTc1NSwtMTk3ODUzNzIyOCwtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
