@@ -204,7 +204,7 @@ Mesh that we used has 40 lines/cm $\rightarrow$  4 lines/mm
 | 433 | 7 |  |
 | 440 | 7 |  |
 | 446 | 6 | 6.33 |
-Yeah yeay h 
+This data shows that there is a wire/line every 6.33 pixels on the screen
 | Dip Pixel Location | Difference Between Peaks |  Mean (Pixels per Dip) |
 |--|--|--|
 | 436 | N/A |  |
@@ -251,6 +251,6 @@ Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 file names are in mm
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MzkyOTAwLC0xOTc4NTM3MjI4LC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbMTEyMzA3MjI1OSwtMTk3ODUzNzIyOCwtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
