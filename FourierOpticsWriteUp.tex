@@ -1,0 +1,51 @@
+\documentclass[11pt]{article}
+\usepackage{mathrsfs}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage[margin=0.8in]{geometry}
+\begin{document}
+\section{Abstract}
+Fourier transforms are a powerful method of understanding the frequency dependence in various optical systems. In this lab we set out to investigate a variety of Fourier optics properties, by studying free space propagation, lens, mesh diffraction, phase contrast, and dark field imaging. All of these experiments demonstrate some aspect of optics where the Fourier transform of an image or its inverse tells us something about the inherent system we created. The bulk of the experimentation and data analysis involved relating our images, their Fourier transforms, and our optical setup to tell a story about the light propagation. Qualitatively, the most interesting results occur in diffraction through an open slit where the Fourier properties are clearly displayed in the cases of near field and far field imaging of the diffraction pattern through a slit. The report will focus on the diffraction we observed and how the Fourier transform relates the image back to the opening we created for the light to travel through. 
+\section{Method Overview}
+\subsection{Theoretical Finesse, Free Spectral Range, and Line-width}
+We start by developing a theoretical diffraction pattern, to predict a diffraction pattern seen at a screen in the far field(Fraunhofer) and near field(Fresnel) limits.   While the mathematical simplicity of the Fraunhofer case is tempting, we simply develop the Fresnel patterns, and allow our limiting values to determine the patter in the Fraunhofer case without any additional simplification. 
+We start by defining a quantity $\Delta v$, which is a dimensional parameter representing the "nearness" of a diffraction pattern. If $\Delta v$ is large we are squarely in the Fresnel limit, while if we are in the situation where $\Delta v << 1$ we are in the Fraunhofer.
+$$\Delta v = w \sqrt{\frac{2}{R\lambda}}, \mathrm{where\ w = slit\ width,\ R = slit\ to\ screen\ distance,\ \lambda = operating\ wavelength} $$
+Then using the Fresnel Reflection equations and letting $C$ be some constant of proportionality we get:
+$$ I(z) = C \int_{v_{1}}^{v_{2}}\cos{\frac{\pi x^2}{2}} dx + C\int_{v_{1}}^{v_{2}}\sin{\frac{\pi x^2}{2}} dx, \mathrm{\ where\ } v_1 = -(z+0.5)\Delta v, \ v_2 = -(z-0.5)\Delta v $$
+As expected in the far-field where $\Delta v << 1$ we recover:
+$$ I(z) = C (\Delta v)^2 [\frac{\sin(\frac{z\pi (\Delta v)^2}{2})}{\frac{z\pi (\Delta v)^2}{2}}]^2 = C (\Delta v)^2 \frac{\sin^2{\beta}}{\beta^2}$$
+
+\subsection{Method for Measurement}
+To see the effect of change $\Delta v$ we can either move the screen back and forth while holding everything else constant, or we can adjust the width of the slit (I suppose we could also change the operating wavelength, but that is not possible in a practical sense). Since we want to maintain the imaging setup we have for screen, we choose to modify the slit width in order to adjust the diffraction regime. We start by defining the slit’s closed point where no light from the laser is visible, and we count this as the background intensity. We will use this reference for the differential slit width, and this image intensity as the background subtraction to compensate for background optical noise. Then we slowly open the slit and take images on the CCD, at various points. One could take a regular series of slit width data, but since interesting data is only really found when we squarely in the Fresnel or Fraunhofer regions, we elected to images and slit width when we saw interesting fringes. At minimum we need one image in the far field, one in the near field, and lastly one at the transition point. 
+
+Using the MATLAB script, which you can find here: https://github.com/akshivbansal/phys408FourierOptics/tree/master/processedData/Diffraction we averaged 10 pixels in the centre of each image. We then compared these diffraction patterns with their Fourier transforms and their predicted diffraction patterns. We chose 3 representative widths and they are plotted in the next section. 
+
+\section{Key Findings and Conclusion}
+\vspace{-8mm}
+
+\begin{figure}[H]
+	\centering
+    \makebox[\textwidth][c]{
+	\includegraphics[width=4.8in]{FinesseFig.jpg} }
+\end{figure}
+
+\vspace{-10mm}
+
+\begin{center}
+	\begin{figure}[H]
+	\centering
+    \makebox[\textwidth][c]{
+	\includegraphics[width=4.8in]{Q-Factor1.jpg} }
+	\caption{The first plot shows the relation between the optical cavity length and the Finesse of the cavity. Here we see that the theoretical finesse is a constant at 185.55 and that our experimental finesse varies for different optical cavity lengths.
+The second plot shows the relation between the optical cavity length and the Q-factor of the optical cavity.  Theoretically, the Q-factor should increase proportionally to the optical cavity length, but here we see that the experimental Q-factors found are almost constant for varying optical cavity length. It should also be noted that the very first point for the Q-factor aligns very well to the expected value. We suggest that for the very small cavity length we were only able to get low order modes that isolate the laser and provide less variability in signal.}
+	\end{figure}
+\end{center}
+\vspace{-6mm} 
+
+
+We find that unlike we expect, the finesse is not constant. It seems to be on the correct order of magnitude, but is moving as a function of the length of the cavity. Oddly enough it also seems to be the case that the Q-factor, which is supposed to be length dependent can be fairly well approximated as a constant. In general, it is unclear that we were successful in quantitatively assessing the performance of the cavity. Error from the piezoelectric controller, slight misalignments in cavity, and the cavity lengths, stacked up to be a fairly significant compared to our measured values of finesse. Perhaps more pressing than the error, the measurement resolution of the scopes were fairly poor, which made getting reliable full-width half-max data challenging. Compounding this was the  transmission spectrum being varied and noisy instead of a clean period signal. 
+\end{document}
