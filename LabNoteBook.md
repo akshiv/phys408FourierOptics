@@ -91,7 +91,7 @@ Mesh that we used has 40 lines/cm
 
 5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
 
-For the object in the image plane the image translates and rotatesurns in 
+For the object in the image plane the image translates and rotates in the same manner as the actual movement of the object in the object plane. However, the Fourier Transform of the wire mesh dims in areas for some fluctuations of the object in the object plane.
 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124422-1.jpeg)
 ![Rotated wire mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124444-1.jpeg)
@@ -312,6 +312,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDI1NDg1NCw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbLTQzMjU3NDQ2MSw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
