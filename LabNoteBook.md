@@ -228,7 +228,7 @@ From this we can assume that on the screen there is 1.62 mm/line
 
 **This is a magnification by a factor of 6.487 times larger.**
 
-We didn't measure the exact lengths between certain optical components so a lens analysis of this number is difficult however we do have some numbers to see if our result is in the right ballpark. If the Image plane is at 509.9 cm, the Fourier transform lens is at 168.3 cm and we find the Fourier transform to focus at 
+We didn't measure the exact lengths between certain optical components so a lens analysis of this number is difficult however we do have some numbers to see if our result is in the right ballpark. If the Image plane is at 509.9 cm, the Fourier transform lens is at 168.3 cm and we find the Fourier transform to focus at 2
 
 
 7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
@@ -327,6 +327,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mjg3NDAwMCw1NTg2NjE3NDgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTg5Mzk1MDAsNTU4NjYxNzQ4LC0xNTE2Nj
+g3MDA1LDM5NjE4ODAwNV19
 -->
