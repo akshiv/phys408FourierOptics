@@ -264,7 +264,7 @@ The reference image gives the spacing relation between mm and pixels
 There is 3.175 mm/dip and there is also 11 pixels/dip
 Therefore there is about 3.46 pixels/mm
 
-From this we can assume that on the screen there is  mm/line
+From this we can assume that on the screen there is  12.28 mm/peak
 
 8. What wire spacing do these spatial frequencies correspond to? 
 
@@ -360,5 +360,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjY4MjE1MF19
+eyJoaXN0b3J5IjpbMTYxMzQ1NTY0MF19
 -->
