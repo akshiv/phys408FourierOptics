@@ -239,10 +239,10 @@ Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see
 | Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
 |--|--|--|
 | 68 | N/A |  |
-| 110 |  |  |
-| 153 |  |  |
-| 195 |  |  |
-| 238 |  |  |
+| 110 | 42 |  |
+| 153 | 43 |  |
+| 195 | 42 |  |
+| 238 | 43 | 42.5 |
 |--|--|--|
 |  |  |  |
 |  |  |  |
@@ -354,6 +354,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkxODYyMjksNTU4NjYxNzQ4LC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbMTY1NzAyNTg3MCw1NTg2NjE3NDgsLTE1MT
+Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
