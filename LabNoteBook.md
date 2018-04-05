@@ -110,7 +110,7 @@ For the object in the image plane the image translates and rotates in the same m
  
 10. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
 
-
+To do this we can use a vertical slot in the fourier transform plane to only allow vertical components through. This will produce a grid with only vertical components.
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/KnifeEdge%20Vertical%20Filter/snap-unknown-20180306-130436-1.jpeg)
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/Screen%20Shot%202018-03-25%20at%201.32.02%20PM.png)
 Looking at the Fourier transform here makes it clear that only these vertical components survived. This is made more obvious if we look at the 3D transform. 
@@ -320,6 +320,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDY2NTk5OCw1NTg2NjE3NDgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTE2NTczNjIyOTgsNTU4NjYxNzQ4LC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
