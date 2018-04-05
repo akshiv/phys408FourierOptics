@@ -85,7 +85,7 @@ Comment: <!\[endif\]--> Please don't forget that you should be calculating the s
 3. Separately, use an additional lens to generate a magnified image of the Fourier transform plane onto the screen and take a picture. 
 
 4. What do the bright spots in the Fourier transform plane represent? 
-
+The 
 5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124422-1.jpeg)
 ![Rotated wire mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124444-1.jpeg)
@@ -306,6 +306,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NjU4MjQzLC0xMjIzOTA5OTEyLC0xNT
+eyJoaXN0b3J5IjpbNTU4NjYxNzQ4LC0xMjIzOTA5OTEyLC0xNT
 E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
