@@ -289,8 +289,11 @@ Using the MATLAB script, which you can find here: https://github.com/akshivbansa
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/22.17stat.jpeg)
 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig12.png)
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/22.90.jpeg)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig13.png)
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/23.09.jpeg)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig14.png)
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/22.17stat.jpeg)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig15.png)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig16.png)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig17.png)
@@ -299,6 +302,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODIwOTUzOCwtMTIyMzkwOTkxMiwtMT
+eyJoaXN0b3J5IjpbLTk0MDI4MDY1OCwtMTIyMzkwOTkxMiwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
