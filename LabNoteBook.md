@@ -240,9 +240,6 @@ On screen $13.0 \pm 0.2$ mm
 **Measured with Image Processing:** 
 
 
-
-
-
 Dark Field Fresnel and Fraunhofer Images
 
 
@@ -254,10 +251,9 @@ Measured slit width on image plane: $5.5 \pm 0.5$ mm
 Set Blade Aperture Position: $20.15 \pm 0.5$ mm 
 Blade aperture separation:  $23.40 \pm 0.01$ mm (fully closed)
 
-
-file names are in mm
+The screen in this is setup has a slit-screen distance of $3.85 \pm 0.01$ m 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NzcyMTA2LC0xMjIzOTA5OTEyLC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbLTg5NzQyNDc5NSwtMTIyMzkwOTkxMiwtMT
+UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
