@@ -75,28 +75,32 @@ Mesh that we used has 40 lines/cm
 
 ![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
 
-
-Comment: <!\[endif\]--> Please don't forget that you should be calculating the spatial frequency, taking into account magnification
-
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
+
+
 
 2. Does this magnification agree with the thin lens formula? Include a picture of the magnified image. Be sure to indicate the scale. 
 
 3. Separately, use an additional lens to generate a magnified image of the Fourier transform plane onto the screen and take a picture. 
 
+
+
 4. What do the bright spots in the Fourier transform plane represent? 
-The 
+
+
+
 5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
+6. 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124422-1.jpeg)
 ![Rotated wire mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124444-1.jpeg)
 
-6. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
+7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
 
-7. What wire spacing do these spatial frequencies correspond to this correspond to? 
+8. What wire spacing do these spatial frequencies correspond to this correspond to? 
 
-8. How does this compare to what you expect? 
+9. How does this compare to what you expect? 
  
-9. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
+10. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/KnifeEdge%20Vertical%20Filter/snap-unknown-20180306-130436-1.jpeg)
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/Screen%20Shot%202018-03-25%20at%201.32.02%20PM.png)
 Looking at the Fourier transform here makes it clear that only these vertical components survived. This is made more obvious if we look at the 3D transform. 
@@ -306,6 +310,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTA4NDY5MCw1NTg2NjE3NDgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTEyMjI1MzAxMjcsNTU4NjYxNzQ4LC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
