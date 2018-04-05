@@ -238,7 +238,9 @@ Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see
 
 
 
-8. What wire spacing do these spatial frequencies correspond to this correspond to? 
+8. What wire spacing do these spatial frequencies correspond to? 
+
+
 
 9. How does this compare to what you expect? 
 
@@ -330,6 +332,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDU1OTMzNiw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbMTU4OTU4OTEwNiw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
