@@ -232,7 +232,7 @@ We didn't measure the exact lengths between certain optical components so a lens
 
 $M = [ (509.9 - 168.3)-2*(204.7-168.3) ]/( 204.7-168.3 ) = 7.38 \pm 0.29$
 
-Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see that the magnification 
+Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see that the magnification is very close to the magnification that we got before.
 
 7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
 
@@ -330,6 +330,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYxODM5NSw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbLTI1MDU1OTMzNiw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
