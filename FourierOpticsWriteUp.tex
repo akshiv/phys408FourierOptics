@@ -18,26 +18,31 @@ Then using the Fresnel Reflection equations and letting $C$ be some constant of 
 $$ I(z) = C \int_{v_{1}}^{v_{2}}\cos{\frac{\pi x^2}{2}} dx + C\int_{v_{1}}^{v_{2}}\sin{\frac{\pi x^2}{2}} dx, \mathrm{\ where\ } v_1 = -(z+0.5)\Delta v, \ v_2 = -(z-0.5)\Delta v $$
 As expected in the far-field where $\Delta v << 1$ we recover:
 $$ I(z) = C (\Delta v)^2 [\frac{\sin(\frac{z\pi (\Delta v)^2}{2})}{\frac{z\pi (\Delta v)^2}{2}}]^2 = C (\Delta v)^2 \frac{\sin^2{\beta}}{\beta^2}$$
-
+\vspace{-9mm} 
 \subsection{Method for Measurement}
 To see the effect of change $\Delta v$ we can either move the screen back and forth while holding everything else constant, or we can adjust the width of the slit (I suppose we could also change the operating wavelength, but that is not possible in a practical sense). Since we want to maintain the imaging setup we have for screen, we choose to modify the slit width in order to adjust the diffraction regime. We start by defining the slit’s closed point where no light from the laser is visible, and we count this as the background intensity. We will use this reference for the differential slit width, and this image intensity as the background subtraction to compensate for background optical noise. Then we slowly open the slit and take images on the CCD, at various points. One could take a regular series of slit width data, but since interesting data is only really found when we squarely in the Fresnel or Fraunhofer regions, we elected to images and slit width when we saw interesting fringes. At minimum we need one image in the far field, one in the near field, and lastly one at the transition point. 
 
-Using the MATLAB script, which you can find here: https://github.com/akshivbansal/phys408FourierOptics/tree/master/processedData/Diffraction we averaged 10 pixels in the centre of each image. We then compared these diffraction patterns with their Fourier transforms and their predicted diffraction patterns. We chose 3 representative widths and they are plotted in the next section. 
+Using the MATLAB script, which you can find here: https://github.com/akshivbansal/phys408FourierOptics\\/tree/master/processedData/Diffraction we averaged 10 pixels in the centre of each image. We then compared these diffraction patterns with their Fourier transforms and their predicted diffraction patterns. We chose 3 representative widths and they are plotted in the next section. 
 
 \section{Key Findings and Conclusion}
-\vspace{-8mm}
+\vspace{-6mm}
 
 \begin{center}
 	\begin{figure}[H]
 	\centering
-    \makebox[\textwidth][c]{
-	\includegraphics[width=4.8in]{Q-Factor1.jpg} }
-	\caption{The first plot shows the relation between the optical cavity length and the Finesse of the cavity. Here we see that the theoretical finesse is a constant at 185.55 and that our experimental finesse varies for different optical cavity lengths.
-The second plot shows the relation between the optical cavity length and the Q-factor of the optical cavity.  Theoretically, the Q-factor should increase proportionally to the optical cavity length, but here we see that the experimental Q-factors found are almost constant for varying optical cavity length. It should also be noted that the very first point for the Q-factor aligns very well to the expected value. We suggest that for the very small cavity length we were only able to get low order modes that isolate the laser and provide less variability in signal.}
+	\includegraphics[width=3.7in]{"Final Figures/Figure1"}
+	\includegraphics[width=1.8in]{"Final Figures/Figure1Raw"}
+	\includegraphics[width=3.7in]{"Final Figures/Figure2"}
+	\includegraphics[width=1.8in]{"Final Figures/Figure2Raw"}
+	\includegraphics[width=3.7in]{"Final Figures/Figure3"}
+	\includegraphics[width=1.8in]{"Final Figures/Figure3Raw"}
 	\end{figure}
 \end{center}
-\vspace{-6mm} 
 
+\begin{figure*}
+	\caption{In these plots we can see the three identified regions for diffraction through a slit. First we are squarely in the near-field limit where the Fresnel equations dominate the intensity profile, and a complex shape is clearly visible in the central fringe. Next we go towards the transitioning zone between the near and far field, where a simple cardinal sine function provides a decent first order approximation of the diffraction pattern we observe, but some of the complexity is missed. Lastly, we arrive at the far-field limit where the cardinal sine function captures all of the relevant information. Adjacent to each intensity plot is the corresponding raw image, which help illustrate how the diffraction patterns appear to an assisted observer. In all of these images there are some issues with the horizontal scaling, this is likely an artifact of how the theoretical curves where calculated and the difference between size of image considered and the real area where the image was created. The data has no smoothing or averaging applied to in the horizontal direction to insure that no signal was smoothed out in order to mitigate noise.}
+\end{figure*} 
+\ \\ \ \\ \ \\
 
-We find that unlike we expect, the finesse is not constant. It seems to be on the correct order of magnitude, but is moving as a function of the length of the cavity. Oddly enough it also seems to be the case that the Q-factor, which is supposed to be length dependent can be fairly well approximated as a constant. In general, it is unclear that we were successful in quantitatively assessing the performance of the cavity. Error from the piezoelectric controller, slight misalignments in cavity, and the cavity lengths, stacked up to be a fairly significant compared to our measured values of finesse. Perhaps more pressing than the error, the measurement resolution of the scopes were fairly poor, which made getting reliable full-width half-max data challenging. Compounding this was the  transmission spectrum being varied and noisy instead of a clean period signal. 
+In general we see that that the data is better modelled as we approach the far-field limit. This is because the inherently discrete nature of our model and the approximations made in the model matter less as we move to the far field limit and recover a cardinal sine function. Importantly, the theory does a good job of predicting the shape and relative magnitude of the intensity of the diffraction pattern. While we can’t use the theoretical values to perfectly model the diffraction in these cases we are still able to get a good sense for the intensity profile in most situations. All of our plots suffer from horizontal scaling issues.  This cause by a difference in the imaging screen and the actual size of the image produced on it. There is also a magnification correction we applied, which has error associated with it, this combined with the skew of the image , likely causes difference between real and imaged pixel size. Over all, the theory of Fresnel diffraction seems to good job of predicting the observations made in the lab. 
 \end{document}

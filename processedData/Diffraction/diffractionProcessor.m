@@ -79,14 +79,35 @@ for k = 1:length(slitWidth)
     scalerA = A / max(I(k,:)) ;
     scalerB = A / max(fourierData(k,:));
     
-%     figure(k)
-%     plot(d, I(k,:)*scalerA);
-%     hold on
-%     plot(dplot, imageData(k,:));
-%     plot(dplot, fourierData(k,:)*scalerB);
-%     
-%     ylim( [-100,(A+50)]);
-%     hold off
+    figure(k)
+    plot(d, I(k,:)*scalerA, 'LineWidth', 2);
+    hold on
+    plot(dplot, imageData(k,:),'LineWidth', 2);
+    plot(dplot, fourierData(k,:)*scalerB, 'LineWidth', 1);
+    
+    titler = ['Diffraction Pattern in Transition \Delta v = ', num2str( round( delV(k), 2) )]; 
+    t = title(titler);
+    t.FontSize = 18;
+    t.FontWeight = 'normal';
+    
+    ax = gca;
+    
+    ax.XLabel.String = 'Distance (m)';
+    ax.XLabel.FontSize = 16;
+    ax.XLabel.FontWeight = 'bold';
+    
+    ax.YLabel.String = ('Relative Intensity');
+    ax.YLabel.FontSize = 16;
+    ax.YLabel.FontWeight = 'bold';
+    
+
+    l = legend('Predicted','Data', 'Fourier Transform','Location','northeast');
+    l.FontWeight = 'Bold';
+    l.FontSize = 14;
+    
+    
+    ylim( [-100,(A+50)]);
+    hold off
     %diffractionIntensity(i,:) = (delV(i)) ^ 2 * (sin(beta(i,:)) / beta(i,:)) ^ 2;
 end
 
