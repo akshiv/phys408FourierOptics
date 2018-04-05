@@ -243,10 +243,10 @@ Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see
 | 153 | 43 |  |
 | 195 | 42 |  |
 | 238 | 43 | 42.5 |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak)|
+| 152 | N/A |  |
+| 192 | 40 |  |
+| 234 | 42 | 41 |
 
 
 This data shows that there is a wire/line every 6.33 pixels on the screen
@@ -354,6 +354,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzAyNTg3MCw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbLTU0OTM1NzA4Niw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
