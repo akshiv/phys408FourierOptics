@@ -74,11 +74,6 @@ Mesh that we used has 40 lines/cm
 
 ![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
 
-
-
-![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/MagnificationGraph.jpg)
-
-![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/MagnificationGraph_Labelled.jpg)
 Here the data is zoomed in and measured.
 
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
@@ -219,7 +214,8 @@ To measure the magnification of the image, we used graph paper as a reference an
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131305-1_SliceLocations.jpg)
 Here is the slices that were taken for processing data
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/MagnificationGraph.jpg)
-
+This is the data for both slices. In blue is the reference slice for pixels to grid spacing  measurements. The dips in this signal are the black lines seen on the right of the image. In red is the brightness plot of the wire mesh image. the peaks are the dots seen from the screen.
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/MagnificationGraph_Labelled.jpg)
 
 
 The grid paper that we were using had spacing that could be measured via image processing and compared to the measured value (with a ruler) to obtain a relationship between the camera and the actual spacing.
@@ -337,6 +333,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAyMzgwMiw1NTg2NjE3NDgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTE4NzUxNTg2ODEsNTU4NjYxNzQ4LC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
