@@ -88,17 +88,6 @@ For the object in the image plane the image translates and rotates in the same m
 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124422-1.jpeg)
 ![Rotated wire mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124444-1.jpeg)
-
-7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
-
-
-
-8. What wire spacing do these spatial frequencies correspond to this correspond to? 
-
-9. How does this compare to what you expect? 
-
-
- 
 10. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
 
 To do this we can use a vertical slit aperture in the Fourier transform plane to only allow vertical components of the image through. This will produce a grid with only vertical components.
@@ -239,6 +228,19 @@ From this we can assume that on the screen there is 1.62 mm/line
 
 This is a magnification by a factor of 6.487 times larger.
 
+
+7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
+
+
+
+8. What wire spacing do these spatial frequencies correspond to this correspond to? 
+
+9. How does this compare to what you expect? 
+
+
+
+
+
 ## Day 3 2018 03 20
 ### Fraunhofer and Fresnel Diffraction Regimes:
 
@@ -323,6 +325,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk1ODMwMDgsNTU4NjYxNzQ4LC0xNT
+eyJoaXN0b3J5IjpbLTE3NjE2NzcyNjgsNTU4NjYxNzQ4LC0xNT
 E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
