@@ -255,7 +255,23 @@ The screen in this is setup has a slit-screen distance of $3.85 \pm 0.01$ m
 
 
 In general we see that that the data is better modeled as we approach the far-field limit. This is because the inherently discrete nature of our model and the approximations made in the model matter less as we move to the far field limit and recover a cardinal sine function. Importantly, the theory does a good job of predicting the shape and relative magnitude of the intensity of the diffraction pattern. While we can’t use the theoretical values to perfectly model the diffraction in these cases we are still able to get a good sense for the intensity profile in most situations. All of our plots suffer from horizontal scaling issues.  This cause by a difference in the imaging screen and the actual size of the image produced on it. There is also a magnification correction we applied, which has error associated with it, this combined with the skew of the image , likely causes difference between real and imaged pixel size. Over all, the theory of Fresnel diffraction seems to good job of predicting the observations made in the lab. 
+
+We develop a theoretical diffraction pattern, to predict a diffraction pattern seen at a screen in the far field(Fraunhofer) and near field(Fresnel) limits.   While the mathematical simplicity of the Fraunhofer case is tempting, we simply develop the Fresnel patterns, and allow our limiting values to determine the patter in the Fraunhofer case without any additional simplification. 
+
+We start by defining a quantity $\Delta v$, which is a dimensional parameter representing the "nearness" of a diffraction pattern. If $\Delta v$ is large we are squarely in the Fresnel limit, while if we are in the situation where $\Delta v << 1$ we are in the Fraunhofer.
+
+$$\Delta v = w \sqrt{\frac{2}{R\lambda}}, \mathrm{where\ w = slit\ width,\ R = slit\ to\ screen\ distance,\ \lambda = operating\ wavelength} $$
+
+Then using the Fresnel Reflection equations and letting $C$ be some constant of proportionality we get:
+$$ I(z) = C \int_{v_{1}}^{v_{2}}\cos{\frac{\pi x^2}{2}} dx + C\int_{v_{1}}^{v_{2}}\sin{\frac{\pi x^2}{2}} dx, \mathrm{\ where\ } v_1 = -(z+0.5)\Delta v, \ v_2 = -(z-0.5)\Delta v $$
+As expected in the far-field where $\Delta v << 1$ we recover:
+$$ I(z) = C (\Delta v)^2 [\frac{\sin(\frac{z\pi (\Delta v)^2}{2})}{\frac{z\pi (\Delta v)^2}{2}}]^2 = C (\Delta v)^2 \frac{\sin^2{\beta}}{\beta^2}$$
+\vspace{-9mm} 
+\subsection{Method for Measurement}
+To see the effect of change $\Delta v$ we can either move the screen back and forth while holding everything else constant, or we can adjust the width of the slit (I suppose we could also change the operating wavelength, but that is not possible in a practical sense). Since we want to maintain the imaging setup we have for screen, we choose to modify the slit width in order to adjust the diffraction regime. We start by defining the slit’s closed point where no light from the laser is visible, and we count this as the background intensity. We will use this reference for the differential slit width, and this image intensity as the background subtraction to compensate for background optical noise. Then we slowly open the slit and take images on the CCD, at various points. One could take a regular series of slit width data, but since interesting data is only really found when we squarely in the Fresnel or Fraunhofer regions, we elected to images and slit width when we saw interesting fringes. At minimum we need one image in the far field, one in the near field, and lastly one at the transition point. 
+
+Using the MATLAB script, which you can find here: https://github.com/akshivbansal/phys408FourierOptics/tree/master/processedData/Diffraction we averaged 10 pixels in the centre of each image. We then compared these diffraction patterns with their Fourier transforms and their predicted diffraction patterns. We chose 3 representative widths and they are plotted in the next section. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mzk1MTc2MywtMTIyMzkwOTkxMiwtMT
+eyJoaXN0b3J5IjpbMTExMDc3OTkzNCwtMTIyMzkwOTkxMiwtMT
 UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
 -->
