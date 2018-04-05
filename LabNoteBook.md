@@ -70,12 +70,6 @@ Grid spacing from paper:  1/8"
 Mesh that we used has 40 lines/cm
 ![Wire Mesh Image](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/FourierAlligmentTest20180306.jpeg)
 
-
-
-![FT of Wire p-unknown-20180306-125246-1.jpeg)
-
-Here the data is zoomed in and measured.
-
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
 
 This data was retaken later in the lab and is mentioned later in this book.
@@ -329,6 +323,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTU4ODgyMyw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbMjE0MTg0NTI1MCw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
