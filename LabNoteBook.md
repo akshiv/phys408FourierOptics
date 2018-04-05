@@ -236,7 +236,24 @@ Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see
 
 7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
 
-
+| Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
+|--|--|--|
+|  | N/A |  |
+|  | 6 |  |
+|  | 7 |  |
+|  | 5 |  |
+| 3 | 7 |  |
+| 440 | 7 |  |
+| 446 | 6 | 6.33 |
+This data shows that there is a wire/line every 6.33 pixels on the screen
+| Dip Pixel Location | Difference Between Peaks |  Mean (Pixels per Dip) |
+|--|--|--|
+| 436 | N/A |  |
+| 448 | 12 |  |
+| 460 | 12 |  |
+| 472 | 12 |  |
+| 485 | 13 |  |
+| 498 | 13 | 12.4 |
 
 8. What wire spacing do these spatial frequencies correspond to? 
 
@@ -332,6 +349,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTU4OTEwNiw1NTg2NjE3NDgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTE2MzAzMDMwNDksNTU4NjYxNzQ4LC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
