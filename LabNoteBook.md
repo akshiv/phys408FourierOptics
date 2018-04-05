@@ -260,7 +260,11 @@ This data shows that there is a peak every 42.5 pixels on the screen
 | 86 | 11 |  |
 | 97 | 11 | 11 |
 
+The reference image gives the spacing relation between mm and pixels
+There is 3.175 mm/dip and there is also 12.4 pixels/dip
+Therefore there is about 3.9 pixels/mm
 
+From this we can assume that on the screen there is 1.62 mm/line
 
 8. What wire spacing do these spatial frequencies correspond to? 
 
@@ -356,6 +360,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzI1OTU4Niw1NTg2NjE3NDgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTEwMDg0NzcwMzNdfQ==
 -->
