@@ -72,8 +72,9 @@ Mesh that we used has 40 lines/cm
 
 
 
-
 ![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
+To measure the 
+
 
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
 
@@ -323,6 +324,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYwNjgzNjQsNTU4NjYxNzQ4LC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbLTM1ODA3MTQ0LDU1ODY2MTc0OCwtMTUxNj
+Y4NzAwNSwzOTYxODgwMDVdfQ==
 -->
