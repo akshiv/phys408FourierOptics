@@ -72,21 +72,17 @@ Mesh that we used has 40 lines/cm
 
 
 
-![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
+![FT of Wire p-unknown-20180306-125246-1.jpeg)
 
 Here the data is zoomed in and measured.
 
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
 
-
-
-2. Does this magnification agree with the thin lens formula? Include a picture of the magnified image. Be sure to indicate the scale. 
-
-
+This data was retaken later in the lab and is mentioned later in this book.
 
 3. Separately, use an additional lens to generate a magnified image of the Fourier transform plane onto the screen and take a picture. 
 
-
+![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
 
 4. What do the bright spots in the Fourier transform plane represent? 
 
@@ -333,6 +329,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUxNTg2ODEsNTU4NjYxNzQ4LC0xNT
-E2Njg3MDA1LDM5NjE4ODAwNV19
+eyJoaXN0b3J5IjpbMTUyOTU4ODgyMyw1NTg2NjE3NDgsLTE1MT
+Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
