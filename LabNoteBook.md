@@ -76,6 +76,9 @@ Mesh that we used has 40 lines/cm
 
 To measure the magnification of the image, we used graph paper as a reference and plotted the intensity of the light obtained from the CCD camera image.
 
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131305-1_SliceLocations.jpg)
+Here is the slices that were taken for processing data
+
 
 
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
@@ -326,6 +329,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY3NjkyMTMsNTU4NjYxNzQ4LC0xNT
+eyJoaXN0b3J5IjpbLTEyODc5NTM2MzUsNTU4NjYxNzQ4LC0xNT
 E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
