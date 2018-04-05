@@ -255,7 +255,7 @@ This data shows that there is a wire/line every 6.33 pixels on the screen
 | 63 | 11 |  |
 | 75 | 12 |  |
 | 86 | 11 |  |
-| 97 | 11 |  |
+| 97 | 11 | 11 |
 
 8. What wire spacing do these spatial frequencies correspond to? 
 
@@ -351,6 +351,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDkwMDU1NCw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbMTQ4MTUxNjg4Niw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
