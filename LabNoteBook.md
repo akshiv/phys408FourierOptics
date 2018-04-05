@@ -271,12 +271,14 @@ Using the MATLAB script, which you can find here: https://github.com/akshivbansa
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig1.png)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig2.png)
 
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig15.png)
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig16.png)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig17.png)
 In general we see that that the data is better modeled as we approach the far-field limit. This is because the inherently discrete nature of our model and the approximations made in the model matter less as we move to the far field limit and recover a cardinal sine function. Importantly, the theory does a good job of predicting the shape and relative magnitude of the intensity of the diffraction pattern. While we can’t use the theoretical values to perfectly model the diffraction in these cases we are still able to get a good sense for the intensity profile in most situations. All of our plots suffer from horizontal scaling issues.  This cause by a difference in the imaging screen and the actual size of the image produced on it. There is also a magnification correction we applied, which has error associated with it, this combined with the skew of the image , likely causes difference between real and imaged pixel size. Over all, the theory of Fresnel diffraction seems to good job of predicting the observations made in the lab. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU5MDUwMDcsLTEyMjM5MDk5MTIsLT
+eyJoaXN0b3J5IjpbLTEyNzk1OTkzNDYsLTEyMjM5MDk5MTIsLT
 E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
