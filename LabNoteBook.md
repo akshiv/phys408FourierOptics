@@ -223,7 +223,7 @@ From this we can assume that on the screen there is 1.62 mm/line
 This is a magnification by a factor of 6.487 times larger.
 
 ## Day 3 2018 03 20
-### Fraunhofer and Fresnel Diffraction Regimes and Misc Lab Write up:
+### Fraunhofer and Fresnel Diffraction Regimes:
 
 
 #### Fresnel Magnification
@@ -267,7 +267,7 @@ $$ I(z) = C (\Delta v)^2 [\frac{\sin(\frac{z\pi (\Delta v)^2}{2})}{\frac{z\pi (\
 
 To see the effect of change $\Delta v$ we can either move the screen back and forth while holding everything else constant, or we can adjust the width of the slit (I suppose we could also change the operating wavelength, but that is not possible in a practical sense). Since we want to maintain the imaging setup we have for screen, we choose to modify the slit width in order to adjust the diffraction regime. We start by defining the slit’s closed point where no light from the laser is visible, and we count this as the background intensity. We will use this reference for the differential slit width, and this image intensity as the background subtraction to compensate for background optical noise. Then we slowly open the slit and take images on the CCD, at various points. One could take a regular series of slit width data, but since interesting data is only really found when we squarely in the Fresnel or Fraunhofer regions, we elected to images and slit width when we saw interesting fringes. At minimum we need one image in the far field, one in the near field, and lastly one at the transition point. 
 
-Using the MATLAB script, which you can find here: https://github.com/akshivbansal/phys408FourierOptics/tree/master/processedData/Diffraction we averaged 10 pixels in the centre of each image. We then compared these diffraction patterns with their Fourier transforms and their predicted diffraction patterns. 
+Using the MATLAB script, which you can find here: https://github.com/akshivbansal/phys408FourierOptics/tree/master/processedData/Diffraction we averaged 10 pixels in the center of each image. We then compared these diffraction patterns with their Fourier transforms and their predicted diffraction patterns. 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig3.png)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/20.jpeg)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig1.png)
@@ -306,6 +306,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQ5NTM4OSwtMTIyMzkwOTkxMiwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbNjY5NjU4MjQzLC0xMjIzOTA5OTEyLC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
