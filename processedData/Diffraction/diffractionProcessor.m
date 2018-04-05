@@ -36,7 +36,7 @@ for j = 1 : length(line)
     end
 end
 
-d     = (-arraySize*2:1:arraySize*2) * 7.5e-6;
+d     = (-arraySize/2:1:arraySize/2) * 7.5e-6; %(-arraySize*2:1:arraySize*2) * 7.5e-6;
 dplot = (-arraySize/2 + 1:1:arraySize/2) * 7.5e-6;
 
 close all;
@@ -45,7 +45,7 @@ close all;
 
 slitWidth = [20.5, 20.76, 20, 21.04, 21.5, 21.25, 21.86, 21.86, 22.17, ...
             22.17, 22.57, 22.90, 23.09, 23.09, 23.21, 23.28, 23.31];
-slitWidth = -(slitWidth  - 23.4) / 1000;
+slitWidth = -(slitWidth - 23.4) / 1000.0; %
 
 R       = 0.75; %3.973;%m
 lambda  = 632.8e-9; %m
@@ -79,14 +79,14 @@ for k = 1:length(slitWidth)
     scalerA = A / max(I(k,:)) ;
     scalerB = A / max(fourierData(k,:));
     
-    figure(k)
-    plot(d, I(k,:)*scalerA);
-    hold on
-    plot(dplot, imageData(k,:));
-    plot(dplot, fourierData(k,:)*scalerB);
-    
-    ylim( [-100,(A+50)]);
-    hold off
+%     figure(k)
+%     plot(d, I(k,:)*scalerA);
+%     hold on
+%     plot(dplot, imageData(k,:));
+%     plot(dplot, fourierData(k,:)*scalerB);
+%     
+%     ylim( [-100,(A+50)]);
+%     hold off
     %diffractionIntensity(i,:) = (delV(i)) ^ 2 * (sin(beta(i,:)) / beta(i,:)) ^ 2;
 end
 
