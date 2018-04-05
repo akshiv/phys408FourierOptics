@@ -121,7 +121,8 @@ Looking at the Fourier transform here makes it clear that only these vertical co
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/3d45tform.png)
 
 ### Dark-field Image
-Dark 
+
+A Dark-field Image can be created by placing the point aperture right at the Fourier transform plane and viewing the 
 
 Normal Image
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/Dark%20Field/snap-unknown-20180306-133527-1.jpeg)
@@ -322,6 +323,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTk4ODAxLDU1ODY2MTc0OCwtMTUxNj
-Y4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTcyOTE3MTEzNiw1NTg2NjE3NDgsLTE1MT
+Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
