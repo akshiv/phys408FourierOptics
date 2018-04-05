@@ -269,7 +269,7 @@ To see the effect of change $\Delta v$ we can either move the screen back and fo
 
 Using the MATLAB script, which you can find here: https://github.com/akshivbansal/phys408FourierOptics/tree/master/processedData/Diffraction we averaged 10 pixels in the centre of each image. We then compared these diffraction patterns with their Fourier transforms and their predicted diffraction patterns. 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig3.png)
-
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/20.jpeg)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig1.png)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/20.5.jpeg)
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Diffraction/Figs/Fig2.png)
@@ -292,6 +292,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjM1NTI4MywtMTIyMzkwOTkxMiwtMT
-UxNjY4NzAwNSwzOTYxODgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE3MjU3NjM4MjYsLTEyMjM5MDk5MTIsLT
+E1MTY2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
