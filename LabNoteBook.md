@@ -81,8 +81,7 @@ Here is the slices that were taken for processing data
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/MagnificationGraph.jpg)
 This is the data for both slices. In blue is the reference slice for pixels to grid spacing  measurements. The dips in this signal are the black lines seen on the right of the image. In red is the brightness plot of the wire mesh image. the peaks are the dots seen from the screen.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/MagnificationGraph_Labelled.jpg)
-Here th
-
+Here the data is zoomed in and measured.
 
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
 
@@ -332,6 +331,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTIyMzE2Miw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbMTE5NTk1OTgxMyw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
