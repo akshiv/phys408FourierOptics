@@ -228,7 +228,7 @@ From this we can assume that on the screen there is 1.62 mm/line
 
 This is a magnification by a factor of 6.487 times larger.
 
-Wedidn't measure the exact lengths betwen 
+We didn't measure the exact lengths between certain optical components so a lens analysis of this number is difficult however we do have some numbers to see if.
 
 7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
 
@@ -326,6 +326,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzE5NTc0OCw1NTg2NjE3NDgsLTE1MT
-Y2ODcwMDUsMzk2MTg4MDA1XX0=
+eyJoaXN0b3J5IjpbLTExNzA5MzYxNzQsNTU4NjYxNzQ4LC0xNT
+E2Njg3MDA1LDM5NjE4ODAwNV19
 -->
