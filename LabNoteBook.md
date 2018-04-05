@@ -249,7 +249,7 @@ Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see
 | 234 | 42 | 41 |
 
 
-This data shows that there is a wire/line every 6.33 pixels on the screen
+This data shows that there is a peak every 42.5 pixels on the screen
 
 | Dip Pixel Location | Difference Between Peaks |  Mean (Pixels per Dip) |
 |--|--|--|
@@ -259,6 +259,8 @@ This data shows that there is a wire/line every 6.33 pixels on the screen
 | 75 | 12 |  |
 | 86 | 11 |  |
 | 97 | 11 | 11 |
+
+
 
 8. What wire spacing do these spatial frequencies correspond to? 
 
@@ -354,6 +356,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTM1NzA4Niw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbMTA1NzI1OTU4Niw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
