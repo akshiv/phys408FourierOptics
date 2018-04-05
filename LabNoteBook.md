@@ -74,7 +74,9 @@ Mesh that we used has 40 lines/cm
 
 ![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
 
-To measure the magnification of the image, we used graph paper as a reference and plotted the intensity of the light obtained from the CCD camera image.
+
+
+
 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131305-1_SliceLocations.jpg)
 Here is the slices that were taken for processing data
@@ -216,6 +218,11 @@ Top-middle-right fringes seperation (between successive bright nodes):
 
 
 ### Redo of Mesh Filtering Experiment to find Magnification
+
+To measure the magnification of the image, we used graph paper as a reference and plotted the intensity of the light obtained from the CCD camera image.
+
+
+
 The grid paper that we were using had spacing that could be measured via image processing and compared to the measured value (with a ruler) to obtain a relationship between the camera and the actual spacing.
 Grid spacing from paper:  1/8" $\rightarrow$ 3.175 mm
 Mesh that we used has 40 lines/cm $\rightarrow$  4 lines/mm
@@ -331,6 +338,6 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTk1OTgxMyw1NTg2NjE3NDgsLTE1MT
+eyJoaXN0b3J5IjpbMTg3MDIxNDUzMSw1NTg2NjE3NDgsLTE1MT
 Y2ODcwMDUsMzk2MTg4MDA1XX0=
 -->
