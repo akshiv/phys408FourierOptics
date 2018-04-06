@@ -203,8 +203,6 @@ Top-middle-right fringes separation (between successive bright nodes):
 
 3. You should see two effects in your image of the phase grating . Take a picture and identify and explain the two effects you observe. 
 
-4. How can you prove you are truly observing the grating? Explain your reasoning. 
-
 5. Using the phase-contrast image of the phase grating, compute the magnification of your imaging system. How does this compare to your previous measurement with the mesh? 
 
 
@@ -379,5 +377,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4ODA5MTUyXX0=
+eyJoaXN0b3J5IjpbMTA1MjM1NzI1OV19
 -->
