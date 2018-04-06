@@ -217,7 +217,8 @@ Even though $2\theta$ is still much smaller than $1$, it gives enough contrast t
 
 Since the DC term has no spatial variation, representing just a flat and featureless illumination from the plane wave, it will be focused to a point in the Fourier Transform plane and comprise the zeroth order of the diffraction pattern. By simply inserting a thin dielectric layer (film) at the central spot in the transform plane the phase of the uniform illuminationwill be altered. A quarter wavelength phase change would produce the best results ($90~^\circ$ DC phase shift). 
 
-5. Using the phase-contrast image of the phase grating, compute the magnification of your imaging system. How does this compare to your previous measurement with the mesh? 
+3. Using the phase-contrast image of the phase grating, compute the magnification of your imaging system. How does this compare to your previous measurement with the mesh? 
+
 
 
 ### Redo of Mesh Filtering Experiment to find Magnification
@@ -391,5 +392,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjAzNjAxMF19
+eyJoaXN0b3J5IjpbMTg0NTAwODcyNl19
 -->
