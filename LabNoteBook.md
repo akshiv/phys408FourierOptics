@@ -192,7 +192,7 @@ This image shows the phase difference is distinguishable and we were able to mea
 **Bottom-right fringes separation (between successive bright nodes):
 $5 \pm 0.5~mm$**
 
-It should be noted that the phase grating that we were using had visible problems as these imagewas either dirty 
+It should be noted that the phase grating that we were using had visible problems as these images show the image is skewed. There should be completely vertical lines in the phase grating image on the screen but instead they were curved. We asked the TA's about this and the concensioswas either dirty 
 
 Top-middle-right fringes separation (between successive bright nodes):
 3.5-4mm
@@ -378,5 +378,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNTYzNTg4XX0=
+eyJoaXN0b3J5IjpbLTQ2NzQzMDIyXX0=
 -->
