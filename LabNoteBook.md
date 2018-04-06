@@ -72,7 +72,7 @@ Mesh that we used has 40 lines/cm
 
 1. From the number of wires per cm given on the mesh aperture, and the spacing of the image wires on the screen, estimate the magnification of this system. 
 
-This data was retaken later in the lab and is mentioned later in this book.
+*This data was retaken later in the lab and is mentioned later in this book.*
 
 3. Separately, use an additional lens to generate a magnified image of the Fourier transform plane onto the screen and take a picture. 
 
@@ -82,8 +82,9 @@ This data was retaken later in the lab and is mentioned later in this book.
 
 Each point in the pattern represents a unique spatial frequency, and is therefore the focus of all parallel rays in the object space making a certain angle with the optic axis
 
+*Other questions located later in the lab where this part was redone*
 
-5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
+9. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
 
 For the object in the image plane the image translates and rotates in the same manner as the actual movement of the object in the object plane. However, the Fourier transform of the wire mesh dims in areas for some fluctuations of the object in the object plane. The absence of some changes may be due to symmetries in the wire mesh when it is Fourier transformed. 
 
@@ -362,5 +363,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTU0ODM2XX0=
+eyJoaXN0b3J5IjpbLTgwMzcxNzg5MF19
 -->
