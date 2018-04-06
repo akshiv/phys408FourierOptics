@@ -204,9 +204,7 @@ $f(x,y) = e^{i\theta}$
 Which is approximated by:
 $f(x,y) \approx 1+i\theta$
 Then the intensity is:
-$|f(x,y)|^2 \approx 1+i\theta-i\theta-i^2\theta^2$ = 1 + \theta^2 $
-
-
+$|f(x,y)|^2~\approx 1+i\theta-i\theta-i^2\theta^2 = 1+\theta^2$
 Visually, us, cameras and many other devices detect light by direct measurement of the light intensity
 
 
@@ -390,5 +388,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzY3MDIyOV19
+eyJoaXN0b3J5IjpbODc1NTM1Nzc1XX0=
 -->
