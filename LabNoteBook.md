@@ -192,12 +192,14 @@ This image shows the phase difference is distinguishable and we were able to mea
 **Bottom-right fringes separation (between successive bright nodes):
 $5 \pm 0.5~mm$**
 
-It should be noted that the phase grating that we were using had visible problems as these images show the image is skewed. There should be completely vertical lines in the phase grating image on the screen but instead they were curved. We asked the TA's about this and the consensus was that the phase grating must be either damaged or dirty. Because of this, we couldnot get greatdecided to not make this the primary focus of this lab
+It should be noted that the phase grating that we were using had visible problems as these images show the image is skewed. There should be completely vertical lines in the phase grating image on the screen but instead they were curved. We asked the TA's about this and the consensus was that the phase grating must be either damaged or dirty. Because of this, we could not get great data and decided to not make this the primary focus of this lab.
 
 Top-middle-right fringes separation (between successive bright nodes):
 3.5-4mm
 
 1. Explain how the grating causes a spatially dependent phase in the original light wave. 
+
+
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
 
@@ -378,5 +380,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE5NTMzMTVdfQ==
+eyJoaXN0b3J5IjpbLTExNDc2MDAxNjZdfQ==
 -->
