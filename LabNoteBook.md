@@ -80,7 +80,8 @@ This data was retaken later in the lab and is mentioned later in this book.
 
 4. What do the bright spots in the Fourier transform plane represent? 
 
-The bright spots in the Fourier transform plane represent the spatial frequencies of the mesh image that we are taking the Fourier transform of.
+Each point in the pattern represents a unique spatial frequency, and is therefore the focus of all parallel rays in the object space making a certain angle with the optic axis
+
 
 5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
 
@@ -361,5 +362,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTM0MDIyMV19
+eyJoaXN0b3J5IjpbLTI2NTU0ODM2XX0=
 -->
