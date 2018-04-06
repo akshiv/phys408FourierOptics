@@ -174,8 +174,9 @@ Again we invert the image:
 ![INVERTED N FILTERED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1-INVERTED.jpg)
 
 Because the NOZON aperture is much less regular than the mesh filter the Fourier transform image is significantly more complex. We need many more spatial frequencies to achieve the sharp corners involved in the NOZON filter. Looking at the Fourier transform image we see that these higher order frequencies and peaks represent the sharp edges of the image. 
-![]()
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/NozonForeward.png)
 
+The reason we can use the lazy x to achieve the correct spatial filtering is we want block the smoother freqencies and
 
 ### Phase-Contrast
 
@@ -410,5 +411,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTE4OTg4OSwtMTY3Mzc1NDk0Nl19
+eyJoaXN0b3J5IjpbMTYxNzMyMzI4OSwtMTY3Mzc1NDk0Nl19
 -->
