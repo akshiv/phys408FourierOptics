@@ -204,8 +204,10 @@ $f(x,y) = e^{i\theta}$
 Which is approximated by:
 $f(x,y) \approx 1+i\theta$
 Then the intensity is:
+$|f(x,y)|^2 \^2\theta^2$
 
-Visually, us, cameras and many other devices detect light by measured 
+
+Visually, us, cameras and many other devices detect light by direct measurement of the light intensity
 
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
@@ -388,5 +390,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzUyOTI1N119
+eyJoaXN0b3J5IjpbLTIxNDYyNDIwNjddfQ==
 -->
