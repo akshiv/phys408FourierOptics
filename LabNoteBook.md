@@ -202,8 +202,10 @@ Top-middle-right fringes separation (between successive bright nodes):
 Phase contrast imaging is a technique by which spatial filtering is used to transform the phase variation across the wave into amplitude variations which can then be detected. We can say that the phase (shift) of light that passes through a medium is given by:
 $f(x,y) = e^{i\theta}$
 Which is approximated by:
-$f(x,y) = e^{i\theta}$
+$f(x,y) \approx 1+i\theta$
+Then the intensity is:
 
+Visually, us, cameras and many other devices detect light by measured 
 
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
@@ -386,5 +388,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTM3MjkyXX0=
+eyJoaXN0b3J5IjpbLTY0MzUyOTI1N119
 -->
