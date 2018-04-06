@@ -178,6 +178,8 @@ Because the NOZON aperture is much less regular than the mesh filter the Fourier
 
 The reason we can use the lazy x to achieve the correct spatial filtering is we want block the smoother frequencies to get rid of the "O"s and the flat bars in the "Z"s. We we try to maintain the peaks and this is possible by applying a filter which removes just those frequencies. 
 
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/O%20filtered.png)
+Looking at the lazy x filtered image, the "round" frequencies have been attenuated into the noise, while the sharp frequencies maintain their relative amplitude. 
 
 ### Phase-Contrast
 
@@ -412,5 +414,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzk5OTE1MCwtMTY3Mzc1NDk0Nl19
+eyJoaXN0b3J5IjpbLTQwOTU1NDMwOCwtMTY3Mzc1NDk0Nl19
 -->
