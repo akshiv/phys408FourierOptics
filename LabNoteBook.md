@@ -77,8 +77,7 @@ Mesh that we used has 40 lines/cm
 3. Separately, use an additional lens to generate a magnified image of the Fourier transform plane onto the screen and take a picture. 
 
 ![FT of Wire Mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-125246-1.jpeg)
-
-4. What do the bright spots in the Fourier transform plane represent? 
+. What do the bright spots in the Fourier transform plane represent? 
 
 Each point in the pattern represents a unique spatial frequency, and is therefore the focus of all parallel rays in the object space making a certain angle with the optic axis
 
@@ -87,12 +86,21 @@ Each point in the pattern represents a unique spatial frequency, and is therefor
 9. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
 
 For the object in the image plane the image translates and rotates in the same manner as the actual movement of the object in the object plane. However, the Fourier transform of the wire mesh dims in areas for some fluctuations of the object in the object plane. The absence of some changes may be due to symmetries in the wire mesh when it is Fourier transformed. 
-
+4. What do the bright spots in the Fourier transform plane represent? 
+The 
+5. Rotate the mesh around in the mount and lift it up and down. How does moving the mesh change the magnified image and the Fourier transform? Why do some types of movement change the image but appear not to change the Fourier transform of the image? What might be happening? 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124422-1.jpeg)
 ![Rotated wire mesh Aperture](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/snap-unknown-20180306-124444-1.jpeg)
-10. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
+10
+6. Using the mesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
 
-To do this we can use a vertical slit aperture in the Fourier transform plane to only allow vertical components of the image through. This will produce a grid with only vertical components.
+ToFourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
+
+7. What wire spacing do these spatial frequencies correspond to this correspond to? 
+
+8. How does this we can use a vertical slit aperture compare to what you expect? 
+ 
+9. Using the Fourier transform plane to only allow vertical components of the image through. This will produce a grid with only vertical componentsmesh object, how can you produce only vertical lines? Explain how and why this is happening. Provide a picture.
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day1_%2020180306/KnifeEdge%20Vertical%20Filter/snap-unknown-20180306-130436-1.jpeg)
  ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/FT/Screen%20Shot%202018-03-25%20at%201.32.02%20PM.png)
 Looking at the Fourier transform here makes it clear that only these vertical components survived. This is made more obvious if we look at the 3D transform. 
@@ -165,6 +173,8 @@ Next we put the Lazy X in
 Again we invert the image:
 ![INVERTED N FILTERED NOZON IMAGE](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Charecter%20Recognition/snap-unknown-20180313-114925-1-INVERTED.jpg)
 
+Because the NOZON aperture is much less regular than the mesh filter the Fourier transform image is significantly more complex. We need many more spatial frequencies to achieve the sharp corners involved in the NOZON filter. Looking at the Fourier transform image we see that these higher order frequencies and peaks represent the sharp edges of the image. 
+![]()
 
 
 ### Phase-Contrast
@@ -193,8 +203,10 @@ This image shows the phase difference is distinguishable and we were able to mea
 $5 \pm 0.5~mm$**
 
 It should be noted that the phase grating that we were using had visible problems as these images show the image is skewed. There should be completely vertical lines in the phase grating image on the screen but instead they were curved. We asked the TA's about this and the consensus was that the phase grating must be either damaged or dirty. Because of this, we could not get great data and decided to not make this the primary focus of this lab.
+Bottom-right fringes sepration (between successive bright nodes):
+5mm
 
-Top-middle-right fringes separation (between successive bright nodes):
+Top-middle-right fringes sepaeration (between successive bright nodes):
 3.5-4mm
 
 1. Explain how the grating causes a spatially dependent phase in the original light wave. 
@@ -222,9 +234,7 @@ Since the DC term has no spatial variation, representing just a flat and feature
 If the grating has about 0.3 lines/mm and and we observed that there was about 5 mm/line that gives a magnification of about 1.5 
 This value for magnification is 4.32 times smaller than the magnification found for the mesh experiment. This is possible however because we were not using the same optical setup for these two days so the positioning of the optical components will have varied by some amount.
 
-This method can be used to determine if there is varying thickness in a media,but not able to determine the exact thickness of the refractive medium. This is because a phase shift of $2\pi$ will not show up after the phase filtering is applied. Relative error will however be able to be used to distinguish changes in thickness as the length and difference in refractive index will phase shift the light by some amount and will become visible after phase filtering in the FT plane.
-
-### Redo of Mesh Filtering Experiment to find Magnification
+This method can be used to determine if there is varying thickness in a media,but not able to determine the exact thickness of the refractive medium. This is because a phase shift of $2\pi$ will not show up after the phase filtering is applied. Relative error will however be able to be used to distinguish changes in thickness as the length and difference in refractive index will phase shift the light by some amount and will become visible after phase filtering in the FT plane.ring Experiment to find Magnification
 
 To measure the magnification of the image, we used graph paper as a reference and plotted the intensity of the light obtained from the CCD camera image.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131305-1_SliceLocations.jpg)
@@ -234,6 +244,9 @@ This is the data for both slices. In blue is the reference slice for pixels to g
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/MagnificationGraph_Labelled.jpg)
 
 
+
+
+### Redo of Mesh Filtering Experiment to find Magnification
 The grid paper that we were using had spacing that could be measured via image processing and compared to the measured value (with a ruler) to obtain a relationship between the camera and the actual spacing.
 Grid spacing from paper:  1/8" $\rightarrow$ 3.175 mm
 Mesh that we used has 40 lines/cm $\rightarrow$  4 lines/mm
@@ -315,6 +328,8 @@ using the magnification we found before, we can determine that at the wire mesh 
 
 ## Day 3 2018 03 20 
 ### Fraunhofer and Fresnel Diffraction Regimes:
+
+
 #### Fresnel Magnification
 We had the idea to take a dark-field image of the setup with the blades. Previous Dark-field Images have produced only the 
 
@@ -395,5 +410,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM3NTQ5NDZdfQ==
+eyJoaXN0b3J5IjpbMTU5MTE4OTg4OSwtMTY3Mzc1NDk0Nl19
 -->
