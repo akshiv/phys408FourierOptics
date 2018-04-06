@@ -184,7 +184,7 @@ Next we collected Images for the phase grating with and without the FT lens and 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Phase%20Contrast/With%20Phase%20Grating/Inverse%20Lens/snap-unknown-20180313-125815-1.jpeg)
 Phase grating with Fourier Transform, but not Phase Plate. Here the image looks homogeneous and the difference in phases are not noticeable.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Phase%20Contrast/With%20Phase%20Grating/Inverse%20Lens/snap-unknown-20180313-125739-1.jpeg)
-By moving the Phase Plate into the Fourier transform field we see that the differences in phase become clearer as they are distinguished. 
+By moving the Phase Plate into the Fourier transform field we see that the differences in phase become clearer as they are distinguished. Here we expect to see a grid, but something is wrong with our phase grating. We talk more about this below.
 
 Without the Fourier transform lens but with the Phase Plate we should be able to see the vertical lines of the difference in phase on the image plane caused by the phase grating. The following image shows these results.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Phase%20Contrast/With%20Phase%20Grating/No%20Inverse%20Lens/snap-unknown-20180313-125504-1.jpeg)
@@ -216,8 +216,6 @@ Even though $2\theta$ is still much smaller than $1$, it gives enough contrast t
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
 
 Since the DC term has no spatial variation, representing just a flat and featureless illumination from the plane wave, it will be focused to a point in the Fourier Transform plane and comprise the zeroth order of the diffraction pattern. By simply inserting a thin dielectric layer (film) at the central spot in the transform plane the phase of the uniform illuminationwill be altered. A quarter wavelength phase change would produce the best results ($90~^\circ$ DC phase shift). 
-
-3. You should see two effects in your image of the phase grating . Take a picture and identify and explain the two effects you observe. 
 
 5. Using the phase-contrast image of the phase grating, compute the magnification of your imaging system. How does this compare to your previous measurement with the mesh? 
 
@@ -393,5 +391,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzk0OTAwMV19
+eyJoaXN0b3J5IjpbMTQzMjAzNjAxMF19
 -->
