@@ -279,6 +279,7 @@ From this we can assume that on the screen there is  12.28 mm/peak
 using the magnification we found before, we can determine that at the wire mesh this corresponds to a distance of 1.89 mm/peak at the object plane.
 
 
+
 ## Day 3 2018 03 20
 ### Fraunhofer and Fresnel Diffraction Regimes:
 
@@ -363,5 +364,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUxNDk2OTddfQ==
+eyJoaXN0b3J5IjpbLTEyNzMyMjY3MV19
 -->
