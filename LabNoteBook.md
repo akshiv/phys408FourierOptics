@@ -278,12 +278,8 @@ Therefore there is about 3.46 pixels/mm
 From this we can assume that on the screen there is  12.28 mm/peak
 using the magnification we found before, we can determine that at the wire mesh this corresponds to a distance of 1.89 mm/peak at the object plane.
 
-
-
 ## Day 3 2018 03 20 
 ### Fraunhofer and Fresnel Diffraction Regimes:
-
-
 #### Fresnel Magnification
 We had the idea to take a dark-field image of the setup with the blades. Previous Dark-field Images have produced only the 
 
@@ -364,5 +360,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQwMTU3ODddfQ==
+eyJoaXN0b3J5IjpbMjA0NDAzNDAwNV19
 -->
