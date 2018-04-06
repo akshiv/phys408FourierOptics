@@ -278,8 +278,6 @@ Therefore there is about 3.46 pixels/mm
 From this we can assume that on the screen there is  12.28 mm/peak
 using the magnification we found before, we can determine that at the wire mesh this corresponds to a distance of 1.89 mm/peak
 
-8. What wire spacing do these spatial frequencies correspond to? 
-
 
 
 9. How does this compare to what you expect? 
@@ -372,5 +370,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTE5MTk5OF19
+eyJoaXN0b3J5IjpbLTE1Nzg2NzU2ODddfQ==
 -->
