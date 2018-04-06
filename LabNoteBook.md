@@ -207,7 +207,10 @@ Then the intensity is:
 $|f(x,y)|^2~\approx 1+i\theta-i\theta-i^2\theta^2 = 1+\theta^2$
 Visually, us, cameras and many other devices detect light by direct measurement of the light intensity. And since $\theta<<1$ the phase difference is not usually distinguishable.
 
-If we were to phase shift the DC component by $90~^\circ$ (by a factor of $i$) we should be able to distinguish the differences in phase much easier. Here$f(x,y)$
+If we were to phase shift the DC component by $90~^\circ$ (by a factor of $i$) we should be able to distinguish the differences in phase much easier. Here $f(x,y)$ becomes:
+$f(x,y) \approx  i +i\theta$
+$|f(x,y)|^2~\approx -i^+i\theta-i\theta-i^2\theta^2 = 1+\theta^2$
+
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
 
@@ -389,5 +392,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg4NjczNzJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDA0NDQxOTBdfQ==
 -->
