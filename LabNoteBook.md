@@ -230,7 +230,7 @@ From this we can assume that on the screen there is 1.62 mm/line
 
 We didn't measure the exact lengths between certain optical components so a lens analysis of this number is difficult however we do have some numbers to see if our result is in the right ballpark. If the Image plane is at 509.9 cm, the Fourier transform lens is at 168.3 cm and the object plane at 111.7 cm we can determine that the magnification is roughly:
 
-$M = (509.9 - 168.3)/( 204.7-168.3 ) = 7.38 \pm 0.29$
+$M = (509.9 - 168.3)/( 168.3-111.7 ) = 6.04 \pm 0.29$
 
 Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see that the magnification is very close to the magnification that we got before.
 
@@ -361,5 +361,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzQzNzA4Nl19
+eyJoaXN0b3J5IjpbMTk5NTM0MDIyMV19
 -->
