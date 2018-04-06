@@ -199,7 +199,7 @@ Top-middle-right fringes separation (between successive bright nodes):
 
 1. Explain how the grating causes a spatially dependent phase in the original light wave. 
 
-
+Phase contrast imaging is a technique by which spatial filtering is used to transform the phase variation across the wave into amplitude variations which can then be detected.
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
 
@@ -380,5 +380,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc2MDAxNjZdfQ==
+eyJoaXN0b3J5IjpbOTU3MTI0OTM0XX0=
 -->
