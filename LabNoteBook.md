@@ -191,7 +191,7 @@ Top-middle-right fringes seperation (between successive bright nodes):
 3. You should see two effects in your image of the phase grating . Take a picture and identify and explain the two effects you observe. 
 4. How can you prove you are truly observing the grating? Explain your reasoning. 
 5. Using the phase-contrast image of the phase grating, compute the magnification of your imaging system. How does this compare to your previous measurement with the mesh? 
-6.  Can you use this technique to measure the thickness variation in an object? Why or why not? Try it using the DC block aperture as your object. Record the image.
+6. Can you use this technique to measure the thickness variation in an object? Why or why not? Try it using the DC block aperture as your object. Record the image.
 
 
 ### Redo of Mesh Filtering Experiment to find Magnification
@@ -365,5 +365,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkzODYwOV19
+eyJoaXN0b3J5IjpbODU1NDUwNDFdfQ==
 -->
