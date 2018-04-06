@@ -276,7 +276,7 @@ There is 3.175 mm/dip and there is also 11 pixels/dip
 Therefore there is about 3.46 pixels/mm
 
 From this we can assume that on the screen there is  12.28 mm/peak
-using the magnification we found before, we can determine that at the wire mesh this corresponds to a distance of 1.89 mm/peak
+using the magnification we found before, we can determine that at the wire mesh this corresponds to a distance of 1.89 mm/peak at the object 
 
 
 ## Day 3 2018 03 20
@@ -363,5 +363,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjIxNTIwOF19
+eyJoaXN0b3J5IjpbLTgxNjk1OTg5MV19
 -->
