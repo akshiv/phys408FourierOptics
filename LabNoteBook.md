@@ -245,7 +245,8 @@ These pixel intensities were plotted and shown above. The blue curve shows the i
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/VertSpatialfreq.jpg)
 Horizontal spacing of the FT image of the wire mesh.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/ReferenceSpacing.jpg)
-Reference spacing 
+Reference spacing measurements for this image.
+
 | Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
 |--|--|--|
 | 68 | N/A |  |
@@ -371,5 +372,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjYxODE0OV19
+eyJoaXN0b3J5IjpbMTg3MTE5MTk5OF19
 -->
