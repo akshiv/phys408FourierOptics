@@ -222,6 +222,8 @@ Since the DC term has no spatial variation, representing just a flat and feature
 If the grating has about 0.3 lines/mm and and we observed that there was about 5 mm/line that gives a magnification of about 1.5 
 This value for magnification is 4.32 times smaller than the magnification found for the mesh experiment. This is possible however because we were not using the same optical setup for these two days so the positioning of the optical components will have varied by some amount.
 
+This method can be used to determine if there is varying thickness in a media,but not able to determine the exact thickness of the refractive medium. This is because a phase 
+
 ### Redo of Mesh Filtering Experiment to find Magnification
 
 To measure the magnification of the image, we used graph paper as a reference and plotted the intensity of the light obtained from the CCD camera image.
@@ -393,5 +395,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU3MTEwNzFdfQ==
+eyJoaXN0b3J5IjpbLTIwOTk4Njk5ODddfQ==
 -->
