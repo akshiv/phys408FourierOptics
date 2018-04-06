@@ -181,6 +181,8 @@ Experimental set up:
 
 Next we collected Images for the phase grating with and without the FT lens and and with and without the "Phase Plate" (vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane). These images are shown below.
 
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Phase%20Contrast/With%20Phase%20Grating/Inverse%20Lens/snap-unknown-20180313-125815-1.jpeg)
+Phase grating with Fourier Transform, but not Phase Plate. Here the image looks homogeneous and the difference in pha
 
 
 Bottom-right fringes seperation (between successive bright nodes):
@@ -369,5 +371,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc2NTcyNTNdfQ==
+eyJoaXN0b3J5IjpbLTEyOTIwMTA5NjZdfQ==
 -->
