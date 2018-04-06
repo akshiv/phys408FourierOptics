@@ -222,7 +222,7 @@ Since the DC term has no spatial variation, representing just a flat and feature
 If the grating has about 0.3 lines/mm and and we observed that there was about 5 mm/line that gives a magnification of about 1.5 
 This value for magnification is 4.32 times smaller than the magnification found for the mesh experiment. This is possible however because we were not using the same optical setup for these two days so the positioning of the optical components will have varied by some amount.
 
-This method can be used to determine if there is varying thickness in a media,but not able to determine the exact thickness of the refractive medium. This is because a phase 
+This method can be used to determine if there is varying thickness in a media,but not able to determine the exact thickness of the refractive medium. This is because a phase shift of $2\pi$ will not show up after the phase filtering is applied. Relative error will however be able to be used to distinguish changes in thickness
 
 ### Redo of Mesh Filtering Experiment to find Magnification
 
@@ -395,5 +395,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk4Njk5ODddfQ==
+eyJoaXN0b3J5IjpbMTQ1NTE2NDc5OV19
 -->
