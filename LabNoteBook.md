@@ -241,7 +241,9 @@ Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131446-1_SliceLocations.jpg)
 This is the Image of the FT that was analyzed. There are reference bars to see the spacing in this field.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/AllSlices_SpatialFreq_Analysis.jpg)
-These pixel intensities were plotted and shown above. The blue curve shows the intensity of the pixels going vertically through the reference lines (dips) and then through 3 spots of the FT (peaks). The red curve is the pixel intensity vertically through the center of the image. These lines have a lot  of noise and these peaks/data was ignored. The green curve shows the horizontal pixel intensities through the center of the image horizontally. 
+These pixel intensities were plotted and shown above. The blue curve shows the intensity of the pixels going vertically through the reference lines (dips) and then through 3 spots of the FT (peaks). The red curve is the pixel intensity vertically through the center of the image. These lines have a lot  of noise and these peaks/data was ignored. The green curve shows the horizontal pixel intensities through the center of the image horizontally.  The left-most peaks were observed alone.
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/VertSpatialfreq.jpg)
+
 
 | Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
 |--|--|--|
@@ -368,5 +370,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMjI4OTEwXX0=
+eyJoaXN0b3J5IjpbMTQzODgyODgyMl19
 -->
