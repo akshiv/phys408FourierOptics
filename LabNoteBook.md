@@ -203,6 +203,7 @@ Phase contrast imaging is a technique by which spatial filtering is used to tran
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
 
+Since the DC term has no spatial variation, representing just a flat and featureless illumination from the plane wave, it will be focused to a point in the Fourier Transform plane and comprise the zeroth order of the diffraction pattern. By simply inserting a thin dielectric layer (film) at the central spot in the transform plane the phase of the uniform illuminationwill be altered. A quarter wavelength phase change would produce the best results (turning the “1” into an “i”), which is 
 
 3. You should see two effects in your image of the phase grating . Take a picture and identify and explain the two effects you observe. 
 
@@ -380,5 +381,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MTI0OTM0XX0=
+eyJoaXN0b3J5IjpbLTYzNTI3MzU3OV19
 -->
