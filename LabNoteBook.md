@@ -238,6 +238,8 @@ Where the error in the location of each plane is roughly $\pm 5~cm$. Here we see
 
 7. Using the Fourier transform image, calculate the spatial frequencies that are present. (Please be careful with units.) 
 
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131446-1_SliceLocations.jpg)
+This is the Image of the FT that was analyzed. there is a reference 
 
 
 | Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
@@ -365,5 +367,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgyNjM3MThdfQ==
+eyJoaXN0b3J5IjpbLTk2MTY2NTYzOV19
 -->
