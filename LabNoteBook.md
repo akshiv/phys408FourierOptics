@@ -211,7 +211,7 @@ If we were to phase shift the DC component by $90~^\circ$ (by a factor of $i$) w
 $f(x,y) \approx  i +i\theta$
 $|f(x,y)|^2~\approx -i^2-i\theta-i\theta-i^2\theta^2 = 1+2\theta +\theta^2$
 
-Even though $2\theta$ is still much smaller than $1$
+Even though $2\theta$ is still much smaller than $1$, it gives enough contrast to be able to distinguish the phase difference.
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
 
@@ -393,5 +393,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDE2ODE4NV19
+eyJoaXN0b3J5IjpbMTM4Mzk0OTAwMV19
 -->
