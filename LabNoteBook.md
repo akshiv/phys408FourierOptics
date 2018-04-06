@@ -189,19 +189,23 @@ By moving the Phase Plate into the Fourier transform field we see that the diffe
 Without the Fourier transform lens but with the Phase Plate we should be able to see the vertical lines of the difference in phase on the image plane caused by the phase grating. The following image shows these results.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Phase%20Contrast/With%20Phase%20Grating/No%20Inverse%20Lens/snap-unknown-20180313-125504-1.jpeg)
 This image shows the phase difference is distinguishable and we were able to measure the difference in phase.
-Bottom-right fringes seperation (between successive bright nodes):
-$5 \pm 0.5~mm$
+**Bottom-right fringes separation (between successive bright nodes):
+$5 \pm 0.5~mm$**
 
-Top-middle-right fringes seperation (between successive bright nodes):
+
+Top-middle-right fringes separation (between successive bright nodes):
 3.5-4mm
 
 1. Explain how the grating causes a spatially dependent phase in the original light wave. 
 
 2. Insert the vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane. How does this “phase plate” allow you to modify the phase of the DC component while leaving all (most) of the other components unaffected? 
-4. You should see two effects in your image of the phase grating . Take a picture and identify and explain the two effects you observe. 
-5. How can you prove you are truly observing the grating? Explain your reasoning. 
-6. Using the phase-contrast image of the phase grating, compute the magnification of your imaging system. How does this compare to your previous measurement with the mesh? 
-7. Can you use this technique to measure the thickness variation in an object? Why or why not? Try it using the DC block aperture as your object. Record the image.
+
+
+3. You should see two effects in your image of the phase grating . Take a picture and identify and explain the two effects you observe. 
+
+4. How can you prove you are truly observing the grating? Explain your reasoning. 
+5. Using the phase-contrast image of the phase grating, compute the magnification of your imaging system. How does this compare to your previous measurement with the mesh? 
+6. Can you use this technique to measure the thickness variation in an object? Why or why not? Try it using the DC block aperture as your object. Record the image.
 
 
 ### Redo of Mesh Filtering Experiment to find Magnification
@@ -375,5 +379,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTk3NTk1Ml19
+eyJoaXN0b3J5IjpbLTE2MDA4MjkwNjRdfQ==
 -->
