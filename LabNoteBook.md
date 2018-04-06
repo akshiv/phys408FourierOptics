@@ -280,7 +280,7 @@ using the magnification we found before, we can determine that at the wire mesh 
 
 
 
-## Day 3 2018 03 20
+## Day 3 2018 03 20 
 ### Fraunhofer and Fresnel Diffraction Regimes:
 
 
@@ -364,5 +364,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMyMjY3MV19
+eyJoaXN0b3J5IjpbLTEzMTQwMTU3ODddfQ==
 -->
