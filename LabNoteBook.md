@@ -179,7 +179,9 @@ Experimental set up:
 |Wedge Knife Blade|236.2|
 |Imaging Lens|248.5|
 
-Next we collected Images for the phase grating with and without the FT lens and and with and without the "Phase Plate" (vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane).
+Next we collected Images for the phase grating with and without the FT lens and and with and without the "Phase Plate" (vertical razor blade with a wedge of clear plastic taped to it into the Fourier Transform plane). These images are shown below.
+
+
 
 Bottom-right fringes seperation (between successive bright nodes):
 5mm
@@ -367,5 +369,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAwMDY3NjRdfQ==
+eyJoaXN0b3J5IjpbLTEzNzc2NTcyNTNdfQ==
 -->
