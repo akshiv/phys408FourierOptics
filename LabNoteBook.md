@@ -238,7 +238,7 @@ Since the DC term has no spatial variation, representing just a flat and feature
 If the grating has about 0.3 lines/mm and and we observed that there was about 5 mm/line that gives a magnification of about 1.5 
 This value for magnification is 4.32 times smaller than the magnification found for the mesh experiment. This is possible however because we were not using the same optical setup for these two days so the positioning of the optical components will have varied by some amount.
 
-This method can be used to determine if there is varying thickness in a media,but not able to determine the exact thickness of the refractive medium. This is because a phase shift of $2\pi$ will not show up after the phase filtering is applied. Relative error will however be able to be used to distinguish changes in thickness as the length and difference in refractive index will phase shift the light by some amount and will become visible after phase filtering in the FT plane.ring Experiment to find Magnification
+This method can be used to determine if there is varying thickness in a media,but not able to determine the exact thickness of the refractive medium. This is because a phase shift of $2\pi$ will not show up atgfter the phase filtering is applied. Relative error will however be able to be used to distinguish changes in thickness as the length and difference in refractive index will phase shift the light by some amount and will become visible after phase filtering in the FT plane.ring Experiment to find Magnification
 
 To measure the magnification of the image, we used graph paper as a reference and plotted the intensity of the light obtained from the CCD camera image.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Magnification/snap-unknown-20180313-131305-1_SliceLocations.jpg)
@@ -414,6 +414,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ2NDY4NzYsLTE2NzM3NTQ5NDZdfQ
-==
+eyJoaXN0b3J5IjpbLTc4MDUwNjY0MSwtMTE4NDY0Njg3Nl19
 -->
