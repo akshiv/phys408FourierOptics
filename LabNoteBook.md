@@ -243,8 +243,9 @@ This is the Image of the FT that was analyzed. There are reference bars to see t
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/AllSlices_SpatialFreq_Analysis.jpg)
 These pixel intensities were plotted and shown above. The blue curve shows the intensity of the pixels going vertically through the reference lines (dips) and then through 3 spots of the FT (peaks). The red curve is the pixel intensity vertically through the center of the image. These lines have a lot  of noise and these peaks/data was ignored. The green curve shows the horizontal pixel intensities through the center of the image horizontally.  The left-most peaks were observed alone.
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/VertSpatialfreq.jpg)
-
-
+Horizontal spacing of the FT image of the wire mesh.
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/processedData/Magnification/images/ReferenceSpacing.jpg)
+Reference spacing 
 | Peak Pixel Location | Difference Between Peaks |  Mean (Pixels per Peak) |
 |--|--|--|
 | 68 | N/A |  |
@@ -370,5 +371,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODgyODgyMl19
+eyJoaXN0b3J5IjpbMTY2MjYxODE0OV19
 -->
