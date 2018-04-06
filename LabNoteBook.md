@@ -199,7 +199,10 @@ Top-middle-right fringes separation (between successive bright nodes):
 
 1. Explain how the grating causes a spatially dependent phase in the original light wave. 
 
-Phase contrast imaging is a technique by which spatial filtering is used to transform the phase variation across the wave into amplitude variations which can then be detected. We can say that the phase (shift) of light that passes through a medium is given
+Phase contrast imaging is a technique by which spatial filtering is used to transform the phase variation across the wave into amplitude variations which can then be detected. We can say that the phase (shift) of light that passes through a medium is given by:
+$f(x,y) = e^{i\theta}$
+Which is approximated by:
+$f(x,y) = e^{i\theta}$
 
 
 
@@ -383,5 +386,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDMyMzQzMV19
+eyJoaXN0b3J5IjpbMTc5MTM3MjkyXX0=
 -->
