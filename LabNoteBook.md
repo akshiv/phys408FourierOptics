@@ -186,7 +186,9 @@ Phase grating with Fourier Transform, but not Phase Plate. Here the image looks 
 ![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Phase%20Contrast/With%20Phase%20Grating/Inverse%20Lens/snap-unknown-20180313-125739-1.jpeg)
 By moving the Phase Plate into the Fourier transform field we see that the differences in phase become clearer as they are distinguished. 
 
-Without the Fourier transform lens but with the Phase Plate we should be able to see the vertical lines of the difference in phase on the image plane caused by the phase grating.
+Without the Fourier transform lens but with the Phase Plate we should be able to see the vertical lines of the difference in phase on the image plane caused by the phase grating. The following image shows these results.
+![](https://raw.githubusercontent.com/akshivbansal/phys408FourierOptics/master/raw_data_from_day2_20180313/Phase%20Contrast/With%20Phase%20Grating/No%20Inverse%20Lens/snap-unknown-20180313-125504-1.jpeg)
+This image shows the phase difference is distinguishable and we were able to measure the difference is
 
 
 Bottom-right fringes seperation (between successive bright nodes):
@@ -375,5 +377,5 @@ In general we see that that the data is better modeled as we approach the far-fi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE3NTgxODRdfQ==
+eyJoaXN0b3J5IjpbLTE2MTk1OTE5MF19
 -->
